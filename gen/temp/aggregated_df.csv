@@ -1,0 +1,2419 @@
+year,month,neighbourhood,num_reviews,date
+2015,01,Amandus - Atheneum,16,2015-01-01
+2015,01,Borgerhout Intra Muros Noord,5,2015-01-01
+2015,01,Borgerhout Intra Muros Zuid,2,2015-01-01
+2015,01,Centraal Station,2,2015-01-01
+2015,01,Deurne Dorp - Gallifort,4,2015-01-01
+2015,01,Deurne Zuid West,2,2015-01-01
+2015,01,Eilandje,4,2015-01-01
+2015,01,Groenenhoek,1,2015-01-01
+2015,01,Historisch Centrum,6,2015-01-01
+2015,01,Linkeroever,2,2015-01-01
+2015,01,Oud - Berchem,1,2015-01-01
+2015,01,Sint-Andries,14,2015-01-01
+2015,01,Stadspark,8,2015-01-01
+2015,01,Theaterbuurt-Meir,1,2015-01-01
+2015,01,Universiteitsbuurt,7,2015-01-01
+2015,01,Zuid,9,2015-01-01
+2015,01,Zurenborg,1,2015-01-01
+2015,02,Amandus - Atheneum,19,2015-02-01
+2015,02,Borgerhout Intra Muros Noord,10,2015-02-01
+2015,02,Borgerhout Intra Muros Zuid,5,2015-02-01
+2015,02,Centraal Station,2,2015-02-01
+2015,02,Deurne Dorp - Gallifort,4,2015-02-01
+2015,02,Deurne Zuid West,3,2015-02-01
+2015,02,Eilandje,7,2015-02-01
+2015,02,Haringrode,4,2015-02-01
+2015,02,Historisch Centrum,9,2015-02-01
+2015,02,Linkeroever,1,2015-02-01
+2015,02,Markgrave,1,2015-02-01
+2015,02,Oud - Berchem,3,2015-02-01
+2015,02,Sint-Andries,17,2015-02-01
+2015,02,Stadspark,4,2015-02-01
+2015,02,Stuivenberg,1,2015-02-01
+2015,02,Theaterbuurt-Meir,8,2015-02-01
+2015,02,Universiteitsbuurt,4,2015-02-01
+2015,02,Zuid,8,2015-02-01
+2015,03,Amandus - Atheneum,24,2015-03-01
+2015,03,Borgerhout Intra Muros Noord,15,2015-03-01
+2015,03,Borgerhout Intra Muros Zuid,6,2015-03-01
+2015,03,Deurne Dorp - Gallifort,2,2015-03-01
+2015,03,Deurne Noord,1,2015-03-01
+2015,03,Deurne Zuid West,3,2015-03-01
+2015,03,Eilandje,4,2015-03-01
+2015,03,Harmonie,2,2015-03-01
+2015,03,Historisch Centrum,13,2015-03-01
+2015,03,Linkeroever,1,2015-03-01
+2015,03,Oud - Berchem,4,2015-03-01
+2015,03,Sint-Andries,21,2015-03-01
+2015,03,Stadspark,10,2015-03-01
+2015,03,Stuivenberg,5,2015-03-01
+2015,03,Theaterbuurt-Meir,8,2015-03-01
+2015,03,Universiteitsbuurt,7,2015-03-01
+2015,03,Zuid,7,2015-03-01
+2015,03,Zurenborg,1,2015-03-01
+2015,04,Amandus - Atheneum,22,2015-04-01
+2015,04,Borgerhout Intra Muros Noord,24,2015-04-01
+2015,04,Borgerhout Intra Muros Zuid,8,2015-04-01
+2015,04,Brederode,2,2015-04-01
+2015,04,Deurne Dorp - Gallifort,4,2015-04-01
+2015,04,Deurne Noord,1,2015-04-01
+2015,04,Deurne Zuid Oost,2,2015-04-01
+2015,04,Deurne Zuid West,4,2015-04-01
+2015,04,Eilandje,9,2015-04-01
+2015,04,Haringrode,2,2015-04-01
+2015,04,Harmonie,2,2015-04-01
+2015,04,Historisch Centrum,31,2015-04-01
+2015,04,Linkeroever,1,2015-04-01
+2015,04,Oud - Berchem,1,2015-04-01
+2015,04,Sint-Andries,18,2015-04-01
+2015,04,Stadspark,21,2015-04-01
+2015,04,Theaterbuurt-Meir,10,2015-04-01
+2015,04,Universiteitsbuurt,12,2015-04-01
+2015,04,Zuid,5,2015-04-01
+2015,04,Zurenborg,1,2015-04-01
+2015,05,Amandus - Atheneum,23,2015-05-01
+2015,05,Borgerhout Intra Muros Noord,19,2015-05-01
+2015,05,Borgerhout Intra Muros Zuid,23,2015-05-01
+2015,05,Brederode,2,2015-05-01
+2015,05,Centraal Station,4,2015-05-01
+2015,05,Deurne Oost,1,2015-05-01
+2015,05,Deurne Zuid Oost,3,2015-05-01
+2015,05,Deurne Zuid West,5,2015-05-01
+2015,05,Eilandje,10,2015-05-01
+2015,05,Haringrode,3,2015-05-01
+2015,05,Historisch Centrum,33,2015-05-01
+2015,05,Markgrave,1,2015-05-01
+2015,05,Oud - Berchem,4,2015-05-01
+2015,05,Sint-Andries,22,2015-05-01
+2015,05,Stadspark,17,2015-05-01
+2015,05,Stuivenberg,2,2015-05-01
+2015,05,Theaterbuurt-Meir,9,2015-05-01
+2015,05,Universiteitsbuurt,10,2015-05-01
+2015,05,Zuid,12,2015-05-01
+2015,05,Zurenborg,4,2015-05-01
+2015,06,Amandus - Atheneum,14,2015-06-01
+2015,06,Borgerhout Intra Muros Noord,17,2015-06-01
+2015,06,Borgerhout Intra Muros Zuid,17,2015-06-01
+2015,06,Brederode,2,2015-06-01
+2015,06,Deurne Zuid Oost,1,2015-06-01
+2015,06,Deurne Zuid West,2,2015-06-01
+2015,06,Eilandje,6,2015-06-01
+2015,06,Haringrode,1,2015-06-01
+2015,06,Historisch Centrum,26,2015-06-01
+2015,06,Linkeroever,1,2015-06-01
+2015,06,Oud - Berchem,4,2015-06-01
+2015,06,Sint-Andries,21,2015-06-01
+2015,06,Stadspark,11,2015-06-01
+2015,06,Stuivenberg,6,2015-06-01
+2015,06,Theaterbuurt-Meir,13,2015-06-01
+2015,06,Universiteitsbuurt,11,2015-06-01
+2015,06,Zuid,13,2015-06-01
+2015,06,Zurenborg,1,2015-06-01
+2015,07,Amandus - Atheneum,32,2015-07-01
+2015,07,Borgerhout Intra Muros Noord,20,2015-07-01
+2015,07,Borgerhout Intra Muros Zuid,32,2015-07-01
+2015,07,Brederode,6,2015-07-01
+2015,07,Centraal Station,5,2015-07-01
+2015,07,Deurne Dorp - Gallifort,3,2015-07-01
+2015,07,Deurne Zuid Oost,2,2015-07-01
+2015,07,Deurne Zuid West,6,2015-07-01
+2015,07,Eilandje,7,2015-07-01
+2015,07,Harmonie,3,2015-07-01
+2015,07,Historisch Centrum,25,2015-07-01
+2015,07,Linkeroever,2,2015-07-01
+2015,07,Markgrave,2,2015-07-01
+2015,07,Oud - Berchem,2,2015-07-01
+2015,07,Sint-Andries,14,2015-07-01
+2015,07,Stadspark,16,2015-07-01
+2015,07,Stuivenberg,3,2015-07-01
+2015,07,Theaterbuurt-Meir,13,2015-07-01
+2015,07,Universiteitsbuurt,7,2015-07-01
+2015,07,Zuid,13,2015-07-01
+2015,07,Zurenborg,1,2015-07-01
+2015,08,Amandus - Atheneum,35,2015-08-01
+2015,08,Borgerhout Intra Muros Noord,22,2015-08-01
+2015,08,Borgerhout Intra Muros Zuid,30,2015-08-01
+2015,08,Centraal Station,4,2015-08-01
+2015,08,Deurne Dorp - Gallifort,5,2015-08-01
+2015,08,Deurne Zuid Oost,3,2015-08-01
+2015,08,Deurne Zuid West,5,2015-08-01
+2015,08,Eilandje,15,2015-08-01
+2015,08,Haringrode,1,2015-08-01
+2015,08,Harmonie,1,2015-08-01
+2015,08,Historisch Centrum,28,2015-08-01
+2015,08,Linkeroever,1,2015-08-01
+2015,08,Markgrave,3,2015-08-01
+2015,08,Nieuw - Kwartier West,3,2015-08-01
+2015,08,Oud - Berchem,6,2015-08-01
+2015,08,Sint-Andries,12,2015-08-01
+2015,08,Stadspark,14,2015-08-01
+2015,08,Stuivenberg,10,2015-08-01
+2015,08,Theaterbuurt-Meir,14,2015-08-01
+2015,08,Universiteitsbuurt,19,2015-08-01
+2015,08,Zuid,10,2015-08-01
+2015,08,Zurenborg,3,2015-08-01
+2015,09,Amandus - Atheneum,36,2015-09-01
+2015,09,Borgerhout Extra Muros,1,2015-09-01
+2015,09,Borgerhout Intra Muros Noord,20,2015-09-01
+2015,09,Borgerhout Intra Muros Zuid,37,2015-09-01
+2015,09,Centraal Station,1,2015-09-01
+2015,09,Deurne Dorp - Gallifort,3,2015-09-01
+2015,09,Deurne Zuid West,6,2015-09-01
+2015,09,Eilandje,9,2015-09-01
+2015,09,Haringrode,3,2015-09-01
+2015,09,Harmonie,1,2015-09-01
+2015,09,Historisch Centrum,41,2015-09-01
+2015,09,Linkeroever,1,2015-09-01
+2015,09,Nieuw - Kwartier West,2,2015-09-01
+2015,09,Oud - Berchem,6,2015-09-01
+2015,09,Sint-Andries,13,2015-09-01
+2015,09,Stadspark,12,2015-09-01
+2015,09,Stuivenberg,5,2015-09-01
+2015,09,Theaterbuurt-Meir,16,2015-09-01
+2015,09,Universiteitsbuurt,9,2015-09-01
+2015,09,Zuid,8,2015-09-01
+2015,09,Zurenborg,1,2015-09-01
+2015,10,Amandus - Atheneum,42,2015-10-01
+2015,10,Borgerhout Extra Muros,2,2015-10-01
+2015,10,Borgerhout Intra Muros Noord,19,2015-10-01
+2015,10,Borgerhout Intra Muros Zuid,35,2015-10-01
+2015,10,Brederode,1,2015-10-01
+2015,10,Centraal Station,10,2015-10-01
+2015,10,Deurne Dorp - Gallifort,6,2015-10-01
+2015,10,Deurne Zuid Oost,1,2015-10-01
+2015,10,Deurne Zuid West,6,2015-10-01
+2015,10,Eilandje,12,2015-10-01
+2015,10,Groenenhoek,3,2015-10-01
+2015,10,Haringrode,3,2015-10-01
+2015,10,Harmonie,1,2015-10-01
+2015,10,Historisch Centrum,53,2015-10-01
+2015,10,Markgrave,4,2015-10-01
+2015,10,Oud - Berchem,5,2015-10-01
+2015,10,Sint-Andries,16,2015-10-01
+2015,10,Stadspark,18,2015-10-01
+2015,10,Stuivenberg,5,2015-10-01
+2015,10,Theaterbuurt-Meir,14,2015-10-01
+2015,10,Universiteitsbuurt,18,2015-10-01
+2015,10,Zuid,15,2015-10-01
+2015,11,Amandus - Atheneum,42,2015-11-01
+2015,11,Borgerhout Extra Muros,4,2015-11-01
+2015,11,Borgerhout Intra Muros Noord,14,2015-11-01
+2015,11,Borgerhout Intra Muros Zuid,48,2015-11-01
+2015,11,Brederode,1,2015-11-01
+2015,11,Centraal Station,11,2015-11-01
+2015,11,Deurne Dorp - Gallifort,4,2015-11-01
+2015,11,Deurne Noord,1,2015-11-01
+2015,11,Deurne Zuid Oost,1,2015-11-01
+2015,11,Deurne Zuid West,12,2015-11-01
+2015,11,Eilandje,10,2015-11-01
+2015,11,Haringrode,3,2015-11-01
+2015,11,Harmonie,3,2015-11-01
+2015,11,Historisch Centrum,46,2015-11-01
+2015,11,Linkeroever,1,2015-11-01
+2015,11,Markgrave,5,2015-11-01
+2015,11,Oud - Berchem,3,2015-11-01
+2015,11,Sint-Andries,17,2015-11-01
+2015,11,Stadspark,16,2015-11-01
+2015,11,Stuivenberg,4,2015-11-01
+2015,11,Theaterbuurt-Meir,20,2015-11-01
+2015,11,Universiteitsbuurt,12,2015-11-01
+2015,11,Zuid,15,2015-11-01
+2015,12,Amandus - Atheneum,30,2015-12-01
+2015,12,Borgerhout Extra Muros,2,2015-12-01
+2015,12,Borgerhout Intra Muros Noord,9,2015-12-01
+2015,12,Borgerhout Intra Muros Zuid,40,2015-12-01
+2015,12,Centraal Station,5,2015-12-01
+2015,12,Deurne Dorp - Gallifort,5,2015-12-01
+2015,12,Deurne Zuid Oost,1,2015-12-01
+2015,12,Deurne Zuid West,5,2015-12-01
+2015,12,Eilandje,15,2015-12-01
+2015,12,Haringrode,4,2015-12-01
+2015,12,Harmonie,5,2015-12-01
+2015,12,Historisch Centrum,48,2015-12-01
+2015,12,Linkeroever,1,2015-12-01
+2015,12,Markgrave,6,2015-12-01
+2015,12,Nieuw - Kwartier West,1,2015-12-01
+2015,12,Oud - Berchem,7,2015-12-01
+2015,12,Sint-Andries,14,2015-12-01
+2015,12,Stadspark,18,2015-12-01
+2015,12,Stuivenberg,4,2015-12-01
+2015,12,Theaterbuurt-Meir,31,2015-12-01
+2015,12,Universiteitsbuurt,32,2015-12-01
+2015,12,Zuid,23,2015-12-01
+2015,12,Zurenborg,2,2015-12-01
+2016,01,Amandus - Atheneum,34,2016-01-01
+2016,01,Borgerhout Extra Muros,2,2016-01-01
+2016,01,Borgerhout Intra Muros Noord,8,2016-01-01
+2016,01,Borgerhout Intra Muros Zuid,23,2016-01-01
+2016,01,Brederode,2,2016-01-01
+2016,01,Centraal Station,3,2016-01-01
+2016,01,Deurne Dorp - Gallifort,3,2016-01-01
+2016,01,Deurne Oost,1,2016-01-01
+2016,01,Deurne Zuid Oost,1,2016-01-01
+2016,01,Deurne Zuid West,4,2016-01-01
+2016,01,Eilandje,13,2016-01-01
+2016,01,Haringrode,1,2016-01-01
+2016,01,Harmonie,3,2016-01-01
+2016,01,Historisch Centrum,38,2016-01-01
+2016,01,Markgrave,2,2016-01-01
+2016,01,Oud - Berchem,4,2016-01-01
+2016,01,Sint-Andries,17,2016-01-01
+2016,01,Stadspark,14,2016-01-01
+2016,01,Stuivenberg,5,2016-01-01
+2016,01,Theaterbuurt-Meir,23,2016-01-01
+2016,01,Universiteitsbuurt,38,2016-01-01
+2016,01,Zuid,25,2016-01-01
+2016,01,Zurenborg,1,2016-01-01
+2016,02,Amandus - Atheneum,22,2016-02-01
+2016,02,Borgerhout Extra Muros,1,2016-02-01
+2016,02,Borgerhout Intra Muros Noord,9,2016-02-01
+2016,02,Borgerhout Intra Muros Zuid,26,2016-02-01
+2016,02,Brederode,3,2016-02-01
+2016,02,Centraal Station,11,2016-02-01
+2016,02,Deurne Dorp - Gallifort,2,2016-02-01
+2016,02,Deurne Zuid Oost,2,2016-02-01
+2016,02,Deurne Zuid West,8,2016-02-01
+2016,02,Eilandje,14,2016-02-01
+2016,02,Haringrode,4,2016-02-01
+2016,02,Harmonie,1,2016-02-01
+2016,02,Historisch Centrum,59,2016-02-01
+2016,02,Markgrave,2,2016-02-01
+2016,02,Oosterveld - Elsdonk,2,2016-02-01
+2016,02,Oud - Berchem,4,2016-02-01
+2016,02,Sint-Andries,8,2016-02-01
+2016,02,Stadspark,8,2016-02-01
+2016,02,Stuivenberg,7,2016-02-01
+2016,02,Theaterbuurt-Meir,25,2016-02-01
+2016,02,Universiteitsbuurt,43,2016-02-01
+2016,02,Zuid,18,2016-02-01
+2016,02,Zurenborg,1,2016-02-01
+2016,03,Amandus - Atheneum,34,2016-03-01
+2016,03,Borgerhout Extra Muros,1,2016-03-01
+2016,03,Borgerhout Intra Muros Noord,10,2016-03-01
+2016,03,Borgerhout Intra Muros Zuid,35,2016-03-01
+2016,03,Brederode,4,2016-03-01
+2016,03,Centraal Station,10,2016-03-01
+2016,03,Deurne Dorp - Gallifort,2,2016-03-01
+2016,03,Deurne Oost,1,2016-03-01
+2016,03,Deurne Zuid West,12,2016-03-01
+2016,03,Eilandje,8,2016-03-01
+2016,03,Harmonie,1,2016-03-01
+2016,03,Historisch Centrum,54,2016-03-01
+2016,03,Hoboken - Centrum,3,2016-03-01
+2016,03,Linkeroever,1,2016-03-01
+2016,03,Markgrave,4,2016-03-01
+2016,03,Nieuw - Kwartier West,1,2016-03-01
+2016,03,Oosterveld - Elsdonk,8,2016-03-01
+2016,03,Oud - Berchem,2,2016-03-01
+2016,03,Polder,2,2016-03-01
+2016,03,Sint-Andries,12,2016-03-01
+2016,03,Stadspark,4,2016-03-01
+2016,03,Stuivenberg,5,2016-03-01
+2016,03,Theaterbuurt-Meir,27,2016-03-01
+2016,03,Universiteitsbuurt,39,2016-03-01
+2016,03,Zuid,18,2016-03-01
+2016,04,Amandus - Atheneum,31,2016-04-01
+2016,04,Borgerhout Extra Muros,4,2016-04-01
+2016,04,Borgerhout Intra Muros Noord,10,2016-04-01
+2016,04,Borgerhout Intra Muros Zuid,40,2016-04-01
+2016,04,Brederode,9,2016-04-01
+2016,04,Centraal Station,15,2016-04-01
+2016,04,Deurne Dorp - Gallifort,5,2016-04-01
+2016,04,Deurne Oost,1,2016-04-01
+2016,04,Deurne Zuid Oost,1,2016-04-01
+2016,04,Deurne Zuid West,3,2016-04-01
+2016,04,Eilandje,11,2016-04-01
+2016,04,Haringrode,2,2016-04-01
+2016,04,Historisch Centrum,61,2016-04-01
+2016,04,Hoboken - Centrum,3,2016-04-01
+2016,04,Linkeroever,1,2016-04-01
+2016,04,Markgrave,6,2016-04-01
+2016,04,Nieuw - Kwartier West,2,2016-04-01
+2016,04,Oosterveld - Elsdonk,7,2016-04-01
+2016,04,Oud - Berchem,4,2016-04-01
+2016,04,Petroleum - Zuid,1,2016-04-01
+2016,04,Sint-Andries,17,2016-04-01
+2016,04,Stadspark,13,2016-04-01
+2016,04,Stuivenberg,6,2016-04-01
+2016,04,Theaterbuurt-Meir,28,2016-04-01
+2016,04,Universiteitsbuurt,53,2016-04-01
+2016,04,Zuid,21,2016-04-01
+2016,04,Zurenborg,2,2016-04-01
+2016,05,Amandus - Atheneum,27,2016-05-01
+2016,05,Borgerhout Extra Muros,7,2016-05-01
+2016,05,Borgerhout Intra Muros Noord,21,2016-05-01
+2016,05,Borgerhout Intra Muros Zuid,52,2016-05-01
+2016,05,Brederode,7,2016-05-01
+2016,05,Centraal Station,19,2016-05-01
+2016,05,Deurne Dorp - Gallifort,4,2016-05-01
+2016,05,Deurne Oost,1,2016-05-01
+2016,05,Deurne Zuid West,4,2016-05-01
+2016,05,Eilandje,11,2016-05-01
+2016,05,Groenenhoek,2,2016-05-01
+2016,05,Haringrode,5,2016-05-01
+2016,05,Harmonie,2,2016-05-01
+2016,05,Historisch Centrum,83,2016-05-01
+2016,05,Hoboken - Centrum,1,2016-05-01
+2016,05,Linkeroever,1,2016-05-01
+2016,05,Markgrave,6,2016-05-01
+2016,05,Nieuw - Kwartier Oost,2,2016-05-01
+2016,05,Oosterveld - Elsdonk,8,2016-05-01
+2016,05,Oud - Berchem,6,2016-05-01
+2016,05,Oud - Merksem,2,2016-05-01
+2016,05,Petroleum - Zuid,2,2016-05-01
+2016,05,Polder,1,2016-05-01
+2016,05,Sint-Andries,24,2016-05-01
+2016,05,Stadspark,16,2016-05-01
+2016,05,Stuivenberg,7,2016-05-01
+2016,05,Theaterbuurt-Meir,46,2016-05-01
+2016,05,Universiteitsbuurt,70,2016-05-01
+2016,05,Zuid,33,2016-05-01
+2016,06,Amandus - Atheneum,35,2016-06-01
+2016,06,Borgerhout Extra Muros,1,2016-06-01
+2016,06,Borgerhout Intra Muros Noord,13,2016-06-01
+2016,06,Borgerhout Intra Muros Zuid,38,2016-06-01
+2016,06,Brederode,1,2016-06-01
+2016,06,Centraal Station,11,2016-06-01
+2016,06,Deurne Dorp - Gallifort,1,2016-06-01
+2016,06,Deurne Noord,2,2016-06-01
+2016,06,Deurne Zuid West,2,2016-06-01
+2016,06,Eilandje,7,2016-06-01
+2016,06,Groenenhoek,3,2016-06-01
+2016,06,Haringrode,3,2016-06-01
+2016,06,Harmonie,3,2016-06-01
+2016,06,Historisch Centrum,45,2016-06-01
+2016,06,Hoboken - Centrum,2,2016-06-01
+2016,06,Kiel,1,2016-06-01
+2016,06,Markgrave,1,2016-06-01
+2016,06,Middelheim,1,2016-06-01
+2016,06,Oud - Berchem,4,2016-06-01
+2016,06,Petroleum - Zuid,1,2016-06-01
+2016,06,Polder,1,2016-06-01
+2016,06,Sint-Andries,14,2016-06-01
+2016,06,Stadspark,10,2016-06-01
+2016,06,Theaterbuurt-Meir,42,2016-06-01
+2016,06,Universiteitsbuurt,39,2016-06-01
+2016,06,Zuid,26,2016-06-01
+2016,06,Zurenborg,1,2016-06-01
+2016,07,Amandus - Atheneum,36,2016-07-01
+2016,07,Borgerhout Extra Muros,5,2016-07-01
+2016,07,Borgerhout Intra Muros Noord,22,2016-07-01
+2016,07,Borgerhout Intra Muros Zuid,30,2016-07-01
+2016,07,Brederode,8,2016-07-01
+2016,07,Centraal Station,12,2016-07-01
+2016,07,Deurne Dorp - Gallifort,3,2016-07-01
+2016,07,Deurne Zuid West,13,2016-07-01
+2016,07,Eilandje,11,2016-07-01
+2016,07,Groenenhoek,3,2016-07-01
+2016,07,Haringrode,4,2016-07-01
+2016,07,Harmonie,8,2016-07-01
+2016,07,Historisch Centrum,67,2016-07-01
+2016,07,Hoboken - Centrum,1,2016-07-01
+2016,07,Kiel,2,2016-07-01
+2016,07,Linkeroever,2,2016-07-01
+2016,07,Markgrave,4,2016-07-01
+2016,07,Middelheim,3,2016-07-01
+2016,07,Nieuw - Kwartier Oost,1,2016-07-01
+2016,07,Nieuw - Kwartier West,1,2016-07-01
+2016,07,Oosterveld - Elsdonk,3,2016-07-01
+2016,07,Oud - Berchem,9,2016-07-01
+2016,07,Petroleum - Zuid,2,2016-07-01
+2016,07,Sint-Andries,21,2016-07-01
+2016,07,Stadspark,17,2016-07-01
+2016,07,Stuivenberg,2,2016-07-01
+2016,07,Theaterbuurt-Meir,40,2016-07-01
+2016,07,Universiteitsbuurt,58,2016-07-01
+2016,07,Zuid,22,2016-07-01
+2016,08,Amandus - Atheneum,50,2016-08-01
+2016,08,Borgerhout Extra Muros,6,2016-08-01
+2016,08,Borgerhout Intra Muros Noord,21,2016-08-01
+2016,08,Borgerhout Intra Muros Zuid,33,2016-08-01
+2016,08,Brederode,7,2016-08-01
+2016,08,Centraal Station,23,2016-08-01
+2016,08,Deurne Dorp - Gallifort,4,2016-08-01
+2016,08,Deurne Oost,1,2016-08-01
+2016,08,Deurne Zuid West,7,2016-08-01
+2016,08,Eilandje,16,2016-08-01
+2016,08,Groenenhoek,1,2016-08-01
+2016,08,Haringrode,1,2016-08-01
+2016,08,Harmonie,4,2016-08-01
+2016,08,Historisch Centrum,66,2016-08-01
+2016,08,Hoboken - Centrum,2,2016-08-01
+2016,08,Kiel,4,2016-08-01
+2016,08,Linkeroever,1,2016-08-01
+2016,08,Markgrave,7,2016-08-01
+2016,08,Middelheim,2,2016-08-01
+2016,08,Oosterveld - Elsdonk,2,2016-08-01
+2016,08,Oud - Berchem,6,2016-08-01
+2016,08,Sint-Andries,25,2016-08-01
+2016,08,Stadspark,20,2016-08-01
+2016,08,Stuivenberg,2,2016-08-01
+2016,08,Tentoonstellingswijk,1,2016-08-01
+2016,08,Theaterbuurt-Meir,33,2016-08-01
+2016,08,Universiteitsbuurt,50,2016-08-01
+2016,08,Zuid,19,2016-08-01
+2016,09,Amandus - Atheneum,54,2016-09-01
+2016,09,Borgerhout Extra Muros,4,2016-09-01
+2016,09,Borgerhout Intra Muros Noord,16,2016-09-01
+2016,09,Borgerhout Intra Muros Zuid,35,2016-09-01
+2016,09,Brederode,4,2016-09-01
+2016,09,Centraal Station,20,2016-09-01
+2016,09,Deurne Dorp - Gallifort,1,2016-09-01
+2016,09,Deurne Zuid West,6,2016-09-01
+2016,09,Eilandje,8,2016-09-01
+2016,09,Haringrode,2,2016-09-01
+2016,09,Harmonie,2,2016-09-01
+2016,09,Historisch Centrum,55,2016-09-01
+2016,09,Kiel,5,2016-09-01
+2016,09,Markgrave,4,2016-09-01
+2016,09,Middelheim,2,2016-09-01
+2016,09,Oud - Berchem,3,2016-09-01
+2016,09,Petroleum - Zuid,2,2016-09-01
+2016,09,Sint-Andries,19,2016-09-01
+2016,09,Stadspark,13,2016-09-01
+2016,09,Stuivenberg,5,2016-09-01
+2016,09,Theaterbuurt-Meir,36,2016-09-01
+2016,09,Universiteitsbuurt,54,2016-09-01
+2016,09,Wilrijk Centrum,2,2016-09-01
+2016,09,Zuid,18,2016-09-01
+2016,10,Amandus - Atheneum,80,2016-10-01
+2016,10,Borgerhout Intra Muros Noord,27,2016-10-01
+2016,10,Borgerhout Intra Muros Zuid,40,2016-10-01
+2016,10,Brederode,2,2016-10-01
+2016,10,Centraal Station,24,2016-10-01
+2016,10,Deurne Dorp - Gallifort,2,2016-10-01
+2016,10,Deurne Noord,1,2016-10-01
+2016,10,Deurne Zuid West,10,2016-10-01
+2016,10,Eilandje,12,2016-10-01
+2016,10,Haringrode,3,2016-10-01
+2016,10,Harmonie,4,2016-10-01
+2016,10,Historisch Centrum,77,2016-10-01
+2016,10,Hoboken - Centrum,3,2016-10-01
+2016,10,Kiel,1,2016-10-01
+2016,10,Markgrave,6,2016-10-01
+2016,10,Nieuw - Kwartier Oost,1,2016-10-01
+2016,10,Oosterveld - Elsdonk,1,2016-10-01
+2016,10,Oud - Berchem,9,2016-10-01
+2016,10,Oud - Merksem,3,2016-10-01
+2016,10,Petroleum - Zuid,1,2016-10-01
+2016,10,Polder,1,2016-10-01
+2016,10,Sint-Andries,19,2016-10-01
+2016,10,Stadspark,22,2016-10-01
+2016,10,Stuivenberg,8,2016-10-01
+2016,10,Theaterbuurt-Meir,63,2016-10-01
+2016,10,Universiteitsbuurt,55,2016-10-01
+2016,10,Wilrijk Centrum,3,2016-10-01
+2016,10,Zuid,29,2016-10-01
+2016,11,Amandus - Atheneum,64,2016-11-01
+2016,11,Borgerhout Extra Muros,3,2016-11-01
+2016,11,Borgerhout Intra Muros Noord,15,2016-11-01
+2016,11,Borgerhout Intra Muros Zuid,44,2016-11-01
+2016,11,Brederode,1,2016-11-01
+2016,11,Centraal Station,22,2016-11-01
+2016,11,Deurne Dorp - Gallifort,1,2016-11-01
+2016,11,Deurne Zuid West,7,2016-11-01
+2016,11,Eilandje,12,2016-11-01
+2016,11,Groenenhoek,1,2016-11-01
+2016,11,Haringrode,3,2016-11-01
+2016,11,Harmonie,3,2016-11-01
+2016,11,Historisch Centrum,63,2016-11-01
+2016,11,Hoboken - Centrum,1,2016-11-01
+2016,11,Kiel,2,2016-11-01
+2016,11,Markgrave,6,2016-11-01
+2016,11,Middelheim,2,2016-11-01
+2016,11,Oosterveld - Elsdonk,5,2016-11-01
+2016,11,Oud - Berchem,6,2016-11-01
+2016,11,Oud - Merksem,5,2016-11-01
+2016,11,Petroleum - Zuid,2,2016-11-01
+2016,11,Sint-Andries,16,2016-11-01
+2016,11,Stadspark,11,2016-11-01
+2016,11,Stuivenberg,8,2016-11-01
+2016,11,Theaterbuurt-Meir,41,2016-11-01
+2016,11,Universiteitsbuurt,51,2016-11-01
+2016,11,Wilrijk Centrum,1,2016-11-01
+2016,11,Zuid,20,2016-11-01
+2016,12,Amandus - Atheneum,57,2016-12-01
+2016,12,Borgerhout Extra Muros,5,2016-12-01
+2016,12,Borgerhout Intra Muros Noord,14,2016-12-01
+2016,12,Borgerhout Intra Muros Zuid,33,2016-12-01
+2016,12,Brederode,5,2016-12-01
+2016,12,Centraal Station,18,2016-12-01
+2016,12,Deurne Dorp - Gallifort,1,2016-12-01
+2016,12,Deurne Noord,2,2016-12-01
+2016,12,Deurne Zuid West,11,2016-12-01
+2016,12,Eilandje,19,2016-12-01
+2016,12,Haringrode,5,2016-12-01
+2016,12,Historisch Centrum,82,2016-12-01
+2016,12,Hoboken - Centrum,3,2016-12-01
+2016,12,Kiel,1,2016-12-01
+2016,12,Markgrave,8,2016-12-01
+2016,12,Merksem - Heide,1,2016-12-01
+2016,12,Middelheim,2,2016-12-01
+2016,12,Oosterveld - Elsdonk,4,2016-12-01
+2016,12,Oud - Berchem,12,2016-12-01
+2016,12,Oud - Merksem,3,2016-12-01
+2016,12,Petroleum - Zuid,1,2016-12-01
+2016,12,Sint-Andries,24,2016-12-01
+2016,12,Stadspark,15,2016-12-01
+2016,12,Stuivenberg,8,2016-12-01
+2016,12,Theaterbuurt-Meir,44,2016-12-01
+2016,12,Universiteitsbuurt,52,2016-12-01
+2016,12,Zuid,23,2016-12-01
+2016,12,Zurenborg,3,2016-12-01
+2017,01,Amandus - Atheneum,56,2017-01-01
+2017,01,Borgerhout Extra Muros,3,2017-01-01
+2017,01,Borgerhout Intra Muros Noord,7,2017-01-01
+2017,01,Borgerhout Intra Muros Zuid,30,2017-01-01
+2017,01,Brederode,1,2017-01-01
+2017,01,Centraal Station,9,2017-01-01
+2017,01,Deurne Dorp - Gallifort,1,2017-01-01
+2017,01,Deurne Zuid West,6,2017-01-01
+2017,01,Eilandje,19,2017-01-01
+2017,01,Groenenhoek,1,2017-01-01
+2017,01,Haringrode,4,2017-01-01
+2017,01,Harmonie,1,2017-01-01
+2017,01,Historisch Centrum,88,2017-01-01
+2017,01,Hoboken - Centrum,5,2017-01-01
+2017,01,Hoboken - Noord,1,2017-01-01
+2017,01,Kiel,2,2017-01-01
+2017,01,Linkeroever,1,2017-01-01
+2017,01,Markgrave,10,2017-01-01
+2017,01,Oosterveld - Elsdonk,2,2017-01-01
+2017,01,Oud - Berchem,13,2017-01-01
+2017,01,Oud - Merksem,1,2017-01-01
+2017,01,Petroleum - Zuid,3,2017-01-01
+2017,01,Sint-Andries,30,2017-01-01
+2017,01,Stadspark,9,2017-01-01
+2017,01,Stuivenberg,9,2017-01-01
+2017,01,Tentoonstellingswijk,1,2017-01-01
+2017,01,Theaterbuurt-Meir,38,2017-01-01
+2017,01,Universiteitsbuurt,40,2017-01-01
+2017,01,Zuid,18,2017-01-01
+2017,01,Zurenborg,4,2017-01-01
+2017,02,Amandus - Atheneum,65,2017-02-01
+2017,02,Borgerhout Extra Muros,3,2017-02-01
+2017,02,Borgerhout Intra Muros Noord,13,2017-02-01
+2017,02,Borgerhout Intra Muros Zuid,33,2017-02-01
+2017,02,Brederode,8,2017-02-01
+2017,02,Centraal Station,19,2017-02-01
+2017,02,Deurne Dorp - Gallifort,1,2017-02-01
+2017,02,Deurne Noord,2,2017-02-01
+2017,02,Deurne Zuid West,9,2017-02-01
+2017,02,Eilandje,26,2017-02-01
+2017,02,Haringrode,5,2017-02-01
+2017,02,Harmonie,4,2017-02-01
+2017,02,Historisch Centrum,89,2017-02-01
+2017,02,Hoboken - Centrum,3,2017-02-01
+2017,02,Hoboken - Noord,1,2017-02-01
+2017,02,Kiel,3,2017-02-01
+2017,02,Markgrave,6,2017-02-01
+2017,02,Middelheim,2,2017-02-01
+2017,02,Oosterveld - Elsdonk,1,2017-02-01
+2017,02,Oud - Berchem,11,2017-02-01
+2017,02,Oud - Merksem,3,2017-02-01
+2017,02,Sint-Andries,19,2017-02-01
+2017,02,Stadspark,19,2017-02-01
+2017,02,Stuivenberg,9,2017-02-01
+2017,02,Tentoonstellingswijk,1,2017-02-01
+2017,02,Theaterbuurt-Meir,33,2017-02-01
+2017,02,Universiteitsbuurt,52,2017-02-01
+2017,02,Zuid,16,2017-02-01
+2017,03,Amandus - Atheneum,79,2017-03-01
+2017,03,Borgerhout Extra Muros,3,2017-03-01
+2017,03,Borgerhout Intra Muros Noord,8,2017-03-01
+2017,03,Borgerhout Intra Muros Zuid,31,2017-03-01
+2017,03,Brederode,4,2017-03-01
+2017,03,Centraal Station,22,2017-03-01
+2017,03,Deurne Noord,2,2017-03-01
+2017,03,Deurne Zuid West,7,2017-03-01
+2017,03,Eilandje,19,2017-03-01
+2017,03,Groenenhoek,4,2017-03-01
+2017,03,Haringrode,2,2017-03-01
+2017,03,Historisch Centrum,89,2017-03-01
+2017,03,Hoboken - Centrum,3,2017-03-01
+2017,03,Hoboken - Noord,2,2017-03-01
+2017,03,Kiel,4,2017-03-01
+2017,03,Markgrave,5,2017-03-01
+2017,03,Oosterveld - Elsdonk,3,2017-03-01
+2017,03,Oud - Berchem,10,2017-03-01
+2017,03,Oud - Merksem,2,2017-03-01
+2017,03,Petroleum - Zuid,1,2017-03-01
+2017,03,Polder,1,2017-03-01
+2017,03,Sint-Andries,25,2017-03-01
+2017,03,Stadspark,13,2017-03-01
+2017,03,Stuivenberg,4,2017-03-01
+2017,03,Tentoonstellingswijk,1,2017-03-01
+2017,03,Theaterbuurt-Meir,40,2017-03-01
+2017,03,Universiteitsbuurt,52,2017-03-01
+2017,03,Valaar,2,2017-03-01
+2017,03,Zuid,17,2017-03-01
+2017,03,Zurenborg,1,2017-03-01
+2017,04,Amandus - Atheneum,97,2017-04-01
+2017,04,Borgerhout Extra Muros,7,2017-04-01
+2017,04,Borgerhout Intra Muros Noord,21,2017-04-01
+2017,04,Borgerhout Intra Muros Zuid,48,2017-04-01
+2017,04,Brederode,5,2017-04-01
+2017,04,Centraal Station,29,2017-04-01
+2017,04,Deurne Dorp - Gallifort,6,2017-04-01
+2017,04,Deurne Noord,1,2017-04-01
+2017,04,Deurne Oost,1,2017-04-01
+2017,04,Deurne Zuid West,11,2017-04-01
+2017,04,Eilandje,53,2017-04-01
+2017,04,Ekeren Centrum,3,2017-04-01
+2017,04,Groenenhoek,7,2017-04-01
+2017,04,Haringrode,4,2017-04-01
+2017,04,Harmonie,3,2017-04-01
+2017,04,Historisch Centrum,126,2017-04-01
+2017,04,Hoboken - Centrum,3,2017-04-01
+2017,04,Hoboken - Noord,1,2017-04-01
+2017,04,Kiel,6,2017-04-01
+2017,04,Markgrave,10,2017-04-01
+2017,04,Nieuw - Kwartier Oost,1,2017-04-01
+2017,04,Oosterveld - Elsdonk,2,2017-04-01
+2017,04,Oud - Berchem,20,2017-04-01
+2017,04,Oud - Merksem,2,2017-04-01
+2017,04,Petroleum - Zuid,1,2017-04-01
+2017,04,Polder,1,2017-04-01
+2017,04,Sint-Andries,32,2017-04-01
+2017,04,Stadspark,37,2017-04-01
+2017,04,Stuivenberg,10,2017-04-01
+2017,04,Theaterbuurt-Meir,76,2017-04-01
+2017,04,Universiteitsbuurt,103,2017-04-01
+2017,04,Valaar,1,2017-04-01
+2017,04,Zuid,39,2017-04-01
+2017,04,Zurenborg,5,2017-04-01
+2017,05,Amandus - Atheneum,94,2017-05-01
+2017,05,Borgerhout Extra Muros,2,2017-05-01
+2017,05,Borgerhout Intra Muros Noord,22,2017-05-01
+2017,05,Borgerhout Intra Muros Zuid,29,2017-05-01
+2017,05,Brederode,14,2017-05-01
+2017,05,Centraal Station,32,2017-05-01
+2017,05,Deurne Dorp - Gallifort,9,2017-05-01
+2017,05,Deurne Oost,1,2017-05-01
+2017,05,Deurne Zuid Oost,1,2017-05-01
+2017,05,Deurne Zuid West,7,2017-05-01
+2017,05,Eilandje,34,2017-05-01
+2017,05,Groenenhoek,5,2017-05-01
+2017,05,Haringrode,2,2017-05-01
+2017,05,Harmonie,2,2017-05-01
+2017,05,Historisch Centrum,112,2017-05-01
+2017,05,Hoboken - Centrum,1,2017-05-01
+2017,05,Kiel,1,2017-05-01
+2017,05,Markgrave,5,2017-05-01
+2017,05,Middelheim,1,2017-05-01
+2017,05,Nieuw - Kwartier Oost,3,2017-05-01
+2017,05,Oud - Berchem,10,2017-05-01
+2017,05,Oud - Merksem,6,2017-05-01
+2017,05,Petroleum - Zuid,1,2017-05-01
+2017,05,Sint-Andries,23,2017-05-01
+2017,05,Stadspark,17,2017-05-01
+2017,05,Stuivenberg,3,2017-05-01
+2017,05,Theaterbuurt-Meir,62,2017-05-01
+2017,05,Universiteitsbuurt,79,2017-05-01
+2017,05,Valaar,1,2017-05-01
+2017,05,Wilrijk Centrum,1,2017-05-01
+2017,05,Zuid,17,2017-05-01
+2017,05,Zurenborg,1,2017-05-01
+2017,06,Amandus - Atheneum,78,2017-06-01
+2017,06,Borgerhout Extra Muros,5,2017-06-01
+2017,06,Borgerhout Intra Muros Noord,16,2017-06-01
+2017,06,Borgerhout Intra Muros Zuid,30,2017-06-01
+2017,06,Brederode,12,2017-06-01
+2017,06,Centraal Station,23,2017-06-01
+2017,06,Deurne Dorp - Gallifort,4,2017-06-01
+2017,06,Deurne Noord,1,2017-06-01
+2017,06,Deurne Oost,1,2017-06-01
+2017,06,Deurne Zuid Oost,1,2017-06-01
+2017,06,Deurne Zuid West,7,2017-06-01
+2017,06,Eilandje,21,2017-06-01
+2017,06,Ekeren Centrum,2,2017-06-01
+2017,06,Groenenhoek,5,2017-06-01
+2017,06,Haringrode,2,2017-06-01
+2017,06,Harmonie,2,2017-06-01
+2017,06,Historisch Centrum,94,2017-06-01
+2017,06,Hoboken - Centrum,2,2017-06-01
+2017,06,Kiel,2,2017-06-01
+2017,06,Markgrave,3,2017-06-01
+2017,06,Nieuw - Zuid,2,2017-06-01
+2017,06,Oud - Berchem,7,2017-06-01
+2017,06,Oud - Merksem,2,2017-06-01
+2017,06,Polder,2,2017-06-01
+2017,06,Sint-Andries,22,2017-06-01
+2017,06,Stadspark,20,2017-06-01
+2017,06,Stuivenberg,3,2017-06-01
+2017,06,Theaterbuurt-Meir,54,2017-06-01
+2017,06,Universiteitsbuurt,60,2017-06-01
+2017,06,Zuid,14,2017-06-01
+2017,06,Zurenborg,2,2017-06-01
+2017,07,Amandus - Atheneum,76,2017-07-01
+2017,07,Borgerhout Extra Muros,9,2017-07-01
+2017,07,Borgerhout Intra Muros Noord,29,2017-07-01
+2017,07,Borgerhout Intra Muros Zuid,40,2017-07-01
+2017,07,Brederode,12,2017-07-01
+2017,07,Centraal Station,30,2017-07-01
+2017,07,Deurne Dorp - Gallifort,8,2017-07-01
+2017,07,Deurne Oost,1,2017-07-01
+2017,07,Deurne Zuid Oost,1,2017-07-01
+2017,07,Deurne Zuid West,11,2017-07-01
+2017,07,Eilandje,27,2017-07-01
+2017,07,Groenenhoek,15,2017-07-01
+2017,07,Haringrode,6,2017-07-01
+2017,07,Harmonie,14,2017-07-01
+2017,07,Historisch Centrum,127,2017-07-01
+2017,07,Hoboken - Centrum,2,2017-07-01
+2017,07,Hoboken - Noord,1,2017-07-01
+2017,07,Kiel,3,2017-07-01
+2017,07,Markgrave,3,2017-07-01
+2017,07,Middelheim,2,2017-07-01
+2017,07,Nieuw - Kwartier Oost,1,2017-07-01
+2017,07,Oosterveld - Elsdonk,4,2017-07-01
+2017,07,Oud - Berchem,15,2017-07-01
+2017,07,Oud - Merksem,2,2017-07-01
+2017,07,Polder,1,2017-07-01
+2017,07,Sint-Andries,28,2017-07-01
+2017,07,Stadspark,36,2017-07-01
+2017,07,Stuivenberg,11,2017-07-01
+2017,07,Tentoonstellingswijk,1,2017-07-01
+2017,07,Theaterbuurt-Meir,52,2017-07-01
+2017,07,Universiteitsbuurt,108,2017-07-01
+2017,07,Valaar,1,2017-07-01
+2017,07,Wilrijk Centrum,3,2017-07-01
+2017,07,Zuid,36,2017-07-01
+2017,07,Zurenborg,2,2017-07-01
+2017,08,Amandus - Atheneum,67,2017-08-01
+2017,08,Borgerhout Extra Muros,12,2017-08-01
+2017,08,Borgerhout Intra Muros Noord,17,2017-08-01
+2017,08,Borgerhout Intra Muros Zuid,26,2017-08-01
+2017,08,Brederode,15,2017-08-01
+2017,08,Centraal Station,36,2017-08-01
+2017,08,Deurne Dorp - Gallifort,10,2017-08-01
+2017,08,Deurne Oost,1,2017-08-01
+2017,08,Deurne Zuid Oost,3,2017-08-01
+2017,08,Deurne Zuid West,11,2017-08-01
+2017,08,Eilandje,27,2017-08-01
+2017,08,Groenenhoek,13,2017-08-01
+2017,08,Haringrode,14,2017-08-01
+2017,08,Harmonie,17,2017-08-01
+2017,08,Historisch Centrum,123,2017-08-01
+2017,08,Hoboken - Centrum,1,2017-08-01
+2017,08,Kiel,1,2017-08-01
+2017,08,Merksem - Heide,1,2017-08-01
+2017,08,Nieuw - Kwartier Oost,1,2017-08-01
+2017,08,Nieuw - Kwartier West,1,2017-08-01
+2017,08,Oosterveld - Elsdonk,1,2017-08-01
+2017,08,Oud - Berchem,16,2017-08-01
+2017,08,Oud - Merksem,2,2017-08-01
+2017,08,Petroleum - Zuid,1,2017-08-01
+2017,08,Polder,1,2017-08-01
+2017,08,Sint-Andries,32,2017-08-01
+2017,08,Stadspark,32,2017-08-01
+2017,08,Stuivenberg,11,2017-08-01
+2017,08,Tentoonstellingswijk,1,2017-08-01
+2017,08,Theaterbuurt-Meir,74,2017-08-01
+2017,08,Universiteitsbuurt,81,2017-08-01
+2017,08,Zuid,19,2017-08-01
+2017,09,Amandus - Atheneum,81,2017-09-01
+2017,09,Borgerhout Extra Muros,11,2017-09-01
+2017,09,Borgerhout Intra Muros Noord,12,2017-09-01
+2017,09,Borgerhout Intra Muros Zuid,25,2017-09-01
+2017,09,Brederode,8,2017-09-01
+2017,09,Centraal Station,39,2017-09-01
+2017,09,Deurne Dorp - Gallifort,6,2017-09-01
+2017,09,Deurne Zuid Oost,1,2017-09-01
+2017,09,Deurne Zuid West,3,2017-09-01
+2017,09,Eilandje,26,2017-09-01
+2017,09,Groenenhoek,7,2017-09-01
+2017,09,Haringrode,8,2017-09-01
+2017,09,Harmonie,14,2017-09-01
+2017,09,Historisch Centrum,112,2017-09-01
+2017,09,Hoboken - Centrum,1,2017-09-01
+2017,09,Kiel,1,2017-09-01
+2017,09,Oosterveld - Elsdonk,1,2017-09-01
+2017,09,Oud - Berchem,11,2017-09-01
+2017,09,Oud - Merksem,4,2017-09-01
+2017,09,Sint-Andries,23,2017-09-01
+2017,09,Stadspark,42,2017-09-01
+2017,09,Stuivenberg,10,2017-09-01
+2017,09,Theaterbuurt-Meir,44,2017-09-01
+2017,09,Universiteitsbuurt,68,2017-09-01
+2017,09,Wilrijk Centrum,1,2017-09-01
+2017,09,Zuid,10,2017-09-01
+2017,10,Amandus - Atheneum,88,2017-10-01
+2017,10,Borgerhout Extra Muros,8,2017-10-01
+2017,10,Borgerhout Intra Muros Noord,34,2017-10-01
+2017,10,Borgerhout Intra Muros Zuid,37,2017-10-01
+2017,10,Brederode,9,2017-10-01
+2017,10,Centraal Station,63,2017-10-01
+2017,10,Deurne Dorp - Gallifort,7,2017-10-01
+2017,10,Deurne Zuid Oost,2,2017-10-01
+2017,10,Deurne Zuid West,8,2017-10-01
+2017,10,Eilandje,31,2017-10-01
+2017,10,Groenenhoek,9,2017-10-01
+2017,10,Haringrode,10,2017-10-01
+2017,10,Harmonie,25,2017-10-01
+2017,10,Historisch Centrum,131,2017-10-01
+2017,10,Hoboken - Centrum,3,2017-10-01
+2017,10,Kiel,1,2017-10-01
+2017,10,Linkeroever,1,2017-10-01
+2017,10,Markgrave,3,2017-10-01
+2017,10,Middelheim,5,2017-10-01
+2017,10,Nieuw - Kwartier Oost,1,2017-10-01
+2017,10,Nieuw - Zuid,3,2017-10-01
+2017,10,Oosterveld - Elsdonk,4,2017-10-01
+2017,10,Oud - Berchem,17,2017-10-01
+2017,10,Oud - Merksem,2,2017-10-01
+2017,10,Petroleum - Zuid,1,2017-10-01
+2017,10,Sint-Andries,33,2017-10-01
+2017,10,Stadspark,33,2017-10-01
+2017,10,Stuivenberg,22,2017-10-01
+2017,10,Tentoonstellingswijk,1,2017-10-01
+2017,10,Theaterbuurt-Meir,54,2017-10-01
+2017,10,Universiteitsbuurt,97,2017-10-01
+2017,10,Zuid,25,2017-10-01
+2017,11,Amandus - Atheneum,78,2017-11-01
+2017,11,Borgerhout Extra Muros,5,2017-11-01
+2017,11,Borgerhout Intra Muros Noord,16,2017-11-01
+2017,11,Borgerhout Intra Muros Zuid,30,2017-11-01
+2017,11,Brederode,7,2017-11-01
+2017,11,Centraal Station,48,2017-11-01
+2017,11,Deurne Dorp - Gallifort,5,2017-11-01
+2017,11,Deurne Noord,1,2017-11-01
+2017,11,Deurne Oost,1,2017-11-01
+2017,11,Deurne Zuid Oost,2,2017-11-01
+2017,11,Deurne Zuid West,6,2017-11-01
+2017,11,Eilandje,31,2017-11-01
+2017,11,Groenenhoek,5,2017-11-01
+2017,11,Haringrode,10,2017-11-01
+2017,11,Harmonie,19,2017-11-01
+2017,11,Historisch Centrum,105,2017-11-01
+2017,11,Hoboken - Centrum,3,2017-11-01
+2017,11,Kiel,3,2017-11-01
+2017,11,Markgrave,4,2017-11-01
+2017,11,Middelheim,4,2017-11-01
+2017,11,Nieuw - Kwartier Oost,1,2017-11-01
+2017,11,Nieuw - Zuid,1,2017-11-01
+2017,11,Oosterveld - Elsdonk,3,2017-11-01
+2017,11,Oud - Berchem,14,2017-11-01
+2017,11,Petroleum - Zuid,1,2017-11-01
+2017,11,Sint-Andries,28,2017-11-01
+2017,11,Stadspark,26,2017-11-01
+2017,11,Stuivenberg,18,2017-11-01
+2017,11,Tentoonstellingswijk,1,2017-11-01
+2017,11,Theaterbuurt-Meir,60,2017-11-01
+2017,11,Tuinwijk,1,2017-11-01
+2017,11,Universiteitsbuurt,73,2017-11-01
+2017,11,Valaar,1,2017-11-01
+2017,11,Wilrijk Centrum,1,2017-11-01
+2017,11,Zuid,26,2017-11-01
+2017,12,Amandus - Atheneum,94,2017-12-01
+2017,12,Borgerhout Extra Muros,13,2017-12-01
+2017,12,Borgerhout Intra Muros Noord,26,2017-12-01
+2017,12,Borgerhout Intra Muros Zuid,30,2017-12-01
+2017,12,Brederode,15,2017-12-01
+2017,12,Centraal Station,40,2017-12-01
+2017,12,Deurne Dorp - Gallifort,3,2017-12-01
+2017,12,Deurne Noord,2,2017-12-01
+2017,12,Deurne Zuid Oost,4,2017-12-01
+2017,12,Deurne Zuid West,8,2017-12-01
+2017,12,Eilandje,28,2017-12-01
+2017,12,Ekeren Centrum,3,2017-12-01
+2017,12,Groenenhoek,8,2017-12-01
+2017,12,Haringrode,11,2017-12-01
+2017,12,Harmonie,22,2017-12-01
+2017,12,Historisch Centrum,167,2017-12-01
+2017,12,Hoboken - Centrum,1,2017-12-01
+2017,12,Hoboken - Noord,1,2017-12-01
+2017,12,Kiel,1,2017-12-01
+2017,12,Markgrave,5,2017-12-01
+2017,12,Middelheim,6,2017-12-01
+2017,12,Nieuw - Kwartier Oost,1,2017-12-01
+2017,12,Oosterveld - Elsdonk,4,2017-12-01
+2017,12,Oud - Berchem,14,2017-12-01
+2017,12,Oud - Merksem,1,2017-12-01
+2017,12,Petroleum - Zuid,2,2017-12-01
+2017,12,Polder,1,2017-12-01
+2017,12,Sint-Andries,26,2017-12-01
+2017,12,Stadspark,40,2017-12-01
+2017,12,Stuivenberg,28,2017-12-01
+2017,12,Tentoonstellingswijk,2,2017-12-01
+2017,12,Theaterbuurt-Meir,65,2017-12-01
+2017,12,Tuinwijk,7,2017-12-01
+2017,12,Universiteitsbuurt,74,2017-12-01
+2017,12,Wilrijk Centrum,1,2017-12-01
+2017,12,Zuid,33,2017-12-01
+2018,01,Amandus - Atheneum,57,2018-01-01
+2018,01,Borgerhout Extra Muros,10,2018-01-01
+2018,01,Borgerhout Intra Muros Noord,18,2018-01-01
+2018,01,Borgerhout Intra Muros Zuid,23,2018-01-01
+2018,01,Brederode,7,2018-01-01
+2018,01,Centraal Station,35,2018-01-01
+2018,01,Deurne Dorp - Gallifort,4,2018-01-01
+2018,01,Deurne Zuid Oost,1,2018-01-01
+2018,01,Deurne Zuid West,5,2018-01-01
+2018,01,Eilandje,24,2018-01-01
+2018,01,Groenenhoek,5,2018-01-01
+2018,01,Haringrode,13,2018-01-01
+2018,01,Harmonie,15,2018-01-01
+2018,01,Historisch Centrum,150,2018-01-01
+2018,01,Hoboken - Centrum,4,2018-01-01
+2018,01,Kiel,1,2018-01-01
+2018,01,Markgrave,4,2018-01-01
+2018,01,Middelheim,3,2018-01-01
+2018,01,Nieuw - Kwartier West,1,2018-01-01
+2018,01,Nieuw - Zuid,2,2018-01-01
+2018,01,Oosterveld - Elsdonk,3,2018-01-01
+2018,01,Oud - Berchem,10,2018-01-01
+2018,01,Oud - Merksem,1,2018-01-01
+2018,01,Petroleum - Zuid,3,2018-01-01
+2018,01,Sint-Andries,21,2018-01-01
+2018,01,Stadspark,29,2018-01-01
+2018,01,Stuivenberg,22,2018-01-01
+2018,01,Theaterbuurt-Meir,41,2018-01-01
+2018,01,Tuinwijk,1,2018-01-01
+2018,01,Universiteitsbuurt,74,2018-01-01
+2018,01,Valaar,1,2018-01-01
+2018,01,Wilrijk Centrum,1,2018-01-01
+2018,01,Zuid,23,2018-01-01
+2018,02,Amandus - Atheneum,62,2018-02-01
+2018,02,Borgerhout Extra Muros,15,2018-02-01
+2018,02,Borgerhout Intra Muros Noord,24,2018-02-01
+2018,02,Borgerhout Intra Muros Zuid,22,2018-02-01
+2018,02,Brederode,6,2018-02-01
+2018,02,Centraal Station,36,2018-02-01
+2018,02,Deurne Dorp - Gallifort,5,2018-02-01
+2018,02,Deurne Noord,1,2018-02-01
+2018,02,Deurne Zuid West,6,2018-02-01
+2018,02,Eilandje,23,2018-02-01
+2018,02,Ekeren Centrum,1,2018-02-01
+2018,02,Groenenhoek,8,2018-02-01
+2018,02,Haringrode,13,2018-02-01
+2018,02,Harmonie,19,2018-02-01
+2018,02,Historisch Centrum,131,2018-02-01
+2018,02,Hoboken - Noord,1,2018-02-01
+2018,02,Kiel,1,2018-02-01
+2018,02,Markgrave,5,2018-02-01
+2018,02,Middelheim,3,2018-02-01
+2018,02,Oosterveld - Elsdonk,1,2018-02-01
+2018,02,Oud - Berchem,10,2018-02-01
+2018,02,Oud - Merksem,1,2018-02-01
+2018,02,Petroleum - Zuid,2,2018-02-01
+2018,02,Sint-Andries,33,2018-02-01
+2018,02,Stadspark,32,2018-02-01
+2018,02,Stuivenberg,24,2018-02-01
+2018,02,Theaterbuurt-Meir,60,2018-02-01
+2018,02,Universiteitsbuurt,84,2018-02-01
+2018,02,Zuid,15,2018-02-01
+2018,03,Amandus - Atheneum,91,2018-03-01
+2018,03,Borgerhout Extra Muros,15,2018-03-01
+2018,03,Borgerhout Intra Muros Noord,32,2018-03-01
+2018,03,Borgerhout Intra Muros Zuid,38,2018-03-01
+2018,03,Brederode,8,2018-03-01
+2018,03,Centraal Station,45,2018-03-01
+2018,03,Deurne Dorp - Gallifort,4,2018-03-01
+2018,03,Deurne Noord,1,2018-03-01
+2018,03,Deurne Oost,1,2018-03-01
+2018,03,Deurne Zuid Oost,2,2018-03-01
+2018,03,Deurne Zuid West,10,2018-03-01
+2018,03,Eilandje,32,2018-03-01
+2018,03,Groenenhoek,10,2018-03-01
+2018,03,Haringrode,15,2018-03-01
+2018,03,Harmonie,18,2018-03-01
+2018,03,Historisch Centrum,167,2018-03-01
+2018,03,Hoboken - Centrum,3,2018-03-01
+2018,03,Hoboken - Noord,1,2018-03-01
+2018,03,Kiel,1,2018-03-01
+2018,03,Linkeroever,2,2018-03-01
+2018,03,Markgrave,8,2018-03-01
+2018,03,Merksem - Heide,2,2018-03-01
+2018,03,Middelheim,3,2018-03-01
+2018,03,Nieuw - Kwartier West,1,2018-03-01
+2018,03,Nieuw - Zuid,3,2018-03-01
+2018,03,Oosterveld - Elsdonk,2,2018-03-01
+2018,03,Oud - Berchem,9,2018-03-01
+2018,03,Oud - Merksem,1,2018-03-01
+2018,03,Petroleum - Zuid,3,2018-03-01
+2018,03,Sint-Andries,40,2018-03-01
+2018,03,Stadspark,35,2018-03-01
+2018,03,Stuivenberg,24,2018-03-01
+2018,03,Tentoonstellingswijk,1,2018-03-01
+2018,03,Theaterbuurt-Meir,77,2018-03-01
+2018,03,Tuinwijk,6,2018-03-01
+2018,03,Universiteitsbuurt,88,2018-03-01
+2018,03,Valaar,1,2018-03-01
+2018,03,Wilrijk Centrum,1,2018-03-01
+2018,03,Zuid,29,2018-03-01
+2018,04,Amandus - Atheneum,104,2018-04-01
+2018,04,Borgerhout Extra Muros,22,2018-04-01
+2018,04,Borgerhout Intra Muros Noord,32,2018-04-01
+2018,04,Borgerhout Intra Muros Zuid,51,2018-04-01
+2018,04,Brederode,9,2018-04-01
+2018,04,Centraal Station,55,2018-04-01
+2018,04,Dam,2,2018-04-01
+2018,04,Deurne Dorp - Gallifort,2,2018-04-01
+2018,04,Deurne Oost,1,2018-04-01
+2018,04,Deurne Zuid Oost,2,2018-04-01
+2018,04,Deurne Zuid West,20,2018-04-01
+2018,04,Eilandje,34,2018-04-01
+2018,04,Groenenhoek,7,2018-04-01
+2018,04,Haringrode,27,2018-04-01
+2018,04,Harmonie,31,2018-04-01
+2018,04,Historisch Centrum,196,2018-04-01
+2018,04,Hoboken - Centrum,1,2018-04-01
+2018,04,Kiel,1,2018-04-01
+2018,04,Linkeroever,2,2018-04-01
+2018,04,Markgrave,10,2018-04-01
+2018,04,Merksem - Heide,8,2018-04-01
+2018,04,Middelheim,4,2018-04-01
+2018,04,Nieuw - Kwartier West,1,2018-04-01
+2018,04,Nieuw - Zuid,3,2018-04-01
+2018,04,Oud - Berchem,17,2018-04-01
+2018,04,Oud - Merksem,2,2018-04-01
+2018,04,Petroleum - Zuid,4,2018-04-01
+2018,04,Sint-Andries,56,2018-04-01
+2018,04,Stadspark,65,2018-04-01
+2018,04,Stuivenberg,31,2018-04-01
+2018,04,Tentoonstellingswijk,4,2018-04-01
+2018,04,Theaterbuurt-Meir,98,2018-04-01
+2018,04,Universiteitsbuurt,113,2018-04-01
+2018,04,Zuid,37,2018-04-01
+2018,04,Zurenborg,3,2018-04-01
+2018,05,Amandus - Atheneum,107,2018-05-01
+2018,05,Borgerhout Extra Muros,22,2018-05-01
+2018,05,Borgerhout Intra Muros Noord,35,2018-05-01
+2018,05,Borgerhout Intra Muros Zuid,39,2018-05-01
+2018,05,Brederode,10,2018-05-01
+2018,05,Centraal Station,35,2018-05-01
+2018,05,Dam,2,2018-05-01
+2018,05,Deurne Dorp - Gallifort,6,2018-05-01
+2018,05,Deurne Zuid Oost,12,2018-05-01
+2018,05,Deurne Zuid West,16,2018-05-01
+2018,05,Eilandje,38,2018-05-01
+2018,05,Ekeren Centrum,3,2018-05-01
+2018,05,Groenenhoek,15,2018-05-01
+2018,05,Haringrode,20,2018-05-01
+2018,05,Harmonie,27,2018-05-01
+2018,05,Historisch Centrum,189,2018-05-01
+2018,05,Hoboken - Centrum,1,2018-05-01
+2018,05,Kiel,2,2018-05-01
+2018,05,Linkeroever,5,2018-05-01
+2018,05,Markgrave,5,2018-05-01
+2018,05,Merksem - Heide,11,2018-05-01
+2018,05,Middelheim,3,2018-05-01
+2018,05,Nieuw - Zuid,2,2018-05-01
+2018,05,Oosterveld - Elsdonk,3,2018-05-01
+2018,05,Oud - Berchem,14,2018-05-01
+2018,05,Petroleum - Zuid,5,2018-05-01
+2018,05,Polder,2,2018-05-01
+2018,05,Sint-Andries,45,2018-05-01
+2018,05,Stadspark,59,2018-05-01
+2018,05,Stuivenberg,35,2018-05-01
+2018,05,Tentoonstellingswijk,4,2018-05-01
+2018,05,Theaterbuurt-Meir,111,2018-05-01
+2018,05,Universiteitsbuurt,115,2018-05-01
+2018,05,Wilrijk Centrum,2,2018-05-01
+2018,05,Zuid,40,2018-05-01
+2018,05,Zurenborg,1,2018-05-01
+2018,06,Amandus - Atheneum,119,2018-06-01
+2018,06,Borgerhout Extra Muros,21,2018-06-01
+2018,06,Borgerhout Intra Muros Noord,23,2018-06-01
+2018,06,Borgerhout Intra Muros Zuid,33,2018-06-01
+2018,06,Brederode,9,2018-06-01
+2018,06,Centraal Station,57,2018-06-01
+2018,06,Dam,1,2018-06-01
+2018,06,Deurne Dorp - Gallifort,3,2018-06-01
+2018,06,Deurne Zuid Oost,9,2018-06-01
+2018,06,Deurne Zuid West,17,2018-06-01
+2018,06,Eilandje,27,2018-06-01
+2018,06,Ekeren Centrum,1,2018-06-01
+2018,06,Groenenhoek,11,2018-06-01
+2018,06,Haringrode,25,2018-06-01
+2018,06,Harmonie,27,2018-06-01
+2018,06,Historisch Centrum,181,2018-06-01
+2018,06,Hoboken - Centrum,3,2018-06-01
+2018,06,Kiel,1,2018-06-01
+2018,06,Linkeroever,5,2018-06-01
+2018,06,Markgrave,5,2018-06-01
+2018,06,Merksem - Heide,6,2018-06-01
+2018,06,Middelheim,1,2018-06-01
+2018,06,Nieuw - Kwartier Oost,1,2018-06-01
+2018,06,Nieuw - Zuid,1,2018-06-01
+2018,06,Oosterveld - Elsdonk,1,2018-06-01
+2018,06,Oud - Berchem,26,2018-06-01
+2018,06,Sint-Andries,43,2018-06-01
+2018,06,Stadspark,37,2018-06-01
+2018,06,Stuivenberg,31,2018-06-01
+2018,06,Tentoonstellingswijk,5,2018-06-01
+2018,06,Theaterbuurt-Meir,100,2018-06-01
+2018,06,Tuinwijk,6,2018-06-01
+2018,06,Universiteitsbuurt,112,2018-06-01
+2018,06,Zuid,34,2018-06-01
+2018,07,Amandus - Atheneum,120,2018-07-01
+2018,07,Borgerhout Extra Muros,19,2018-07-01
+2018,07,Borgerhout Intra Muros Noord,35,2018-07-01
+2018,07,Borgerhout Intra Muros Zuid,44,2018-07-01
+2018,07,Brederode,17,2018-07-01
+2018,07,Centraal Station,64,2018-07-01
+2018,07,Dam,2,2018-07-01
+2018,07,Deurne Dorp - Gallifort,2,2018-07-01
+2018,07,Deurne Zuid Oost,13,2018-07-01
+2018,07,Deurne Zuid West,30,2018-07-01
+2018,07,Eilandje,38,2018-07-01
+2018,07,Ekeren Centrum,1,2018-07-01
+2018,07,Groenenhoek,14,2018-07-01
+2018,07,Haringrode,24,2018-07-01
+2018,07,Harmonie,29,2018-07-01
+2018,07,Historisch Centrum,221,2018-07-01
+2018,07,Hoboken - Centrum,3,2018-07-01
+2018,07,Hoboken - Noord,1,2018-07-01
+2018,07,Hoogte,3,2018-07-01
+2018,07,Kiel,2,2018-07-01
+2018,07,Linkeroever,8,2018-07-01
+2018,07,Markgrave,16,2018-07-01
+2018,07,Merksem - Heide,5,2018-07-01
+2018,07,Middelheim,6,2018-07-01
+2018,07,Nieuw - Zuid,1,2018-07-01
+2018,07,Oosterveld - Elsdonk,7,2018-07-01
+2018,07,Oud - Berchem,32,2018-07-01
+2018,07,Oud - Merksem,7,2018-07-01
+2018,07,Petroleum - Zuid,4,2018-07-01
+2018,07,Polder,1,2018-07-01
+2018,07,Sint-Andries,54,2018-07-01
+2018,07,Stadspark,38,2018-07-01
+2018,07,Stuivenberg,48,2018-07-01
+2018,07,Tentoonstellingswijk,3,2018-07-01
+2018,07,Theaterbuurt-Meir,119,2018-07-01
+2018,07,Tuinwijk,15,2018-07-01
+2018,07,Universiteitsbuurt,166,2018-07-01
+2018,07,Valaar,1,2018-07-01
+2018,07,Wilrijk Centrum,4,2018-07-01
+2018,07,Zuid,43,2018-07-01
+2018,07,Zurenborg,6,2018-07-01
+2018,08,Amandus - Atheneum,128,2018-08-01
+2018,08,Borgerhout Extra Muros,21,2018-08-01
+2018,08,Borgerhout Intra Muros Noord,23,2018-08-01
+2018,08,Borgerhout Intra Muros Zuid,50,2018-08-01
+2018,08,Brederode,9,2018-08-01
+2018,08,Centraal Station,84,2018-08-01
+2018,08,Deurne Dorp - Gallifort,4,2018-08-01
+2018,08,Deurne Zuid Oost,11,2018-08-01
+2018,08,Deurne Zuid West,19,2018-08-01
+2018,08,Eilandje,29,2018-08-01
+2018,08,Groenenhoek,10,2018-08-01
+2018,08,Haringrode,23,2018-08-01
+2018,08,Harmonie,23,2018-08-01
+2018,08,Historisch Centrum,215,2018-08-01
+2018,08,Hoboken - Centrum,7,2018-08-01
+2018,08,Kiel,8,2018-08-01
+2018,08,Linkeroever,8,2018-08-01
+2018,08,Markgrave,11,2018-08-01
+2018,08,Merksem - Heide,5,2018-08-01
+2018,08,Middelheim,7,2018-08-01
+2018,08,Nieuw - Kwartier Oost,5,2018-08-01
+2018,08,Oosterveld - Elsdonk,5,2018-08-01
+2018,08,Oud - Berchem,21,2018-08-01
+2018,08,Oud - Merksem,5,2018-08-01
+2018,08,Petroleum - Zuid,1,2018-08-01
+2018,08,Sint-Andries,68,2018-08-01
+2018,08,Stadspark,37,2018-08-01
+2018,08,Stuivenberg,44,2018-08-01
+2018,08,Tentoonstellingswijk,3,2018-08-01
+2018,08,Theaterbuurt-Meir,125,2018-08-01
+2018,08,Tuinwijk,19,2018-08-01
+2018,08,Universiteitsbuurt,140,2018-08-01
+2018,08,Wilrijk Centrum,8,2018-08-01
+2018,08,Zuid,36,2018-08-01
+2018,08,Zurenborg,1,2018-08-01
+2018,09,Amandus - Atheneum,120,2018-09-01
+2018,09,Borgerhout Extra Muros,22,2018-09-01
+2018,09,Borgerhout Intra Muros Noord,30,2018-09-01
+2018,09,Borgerhout Intra Muros Zuid,41,2018-09-01
+2018,09,Brederode,7,2018-09-01
+2018,09,Centraal Station,67,2018-09-01
+2018,09,Dam,4,2018-09-01
+2018,09,Deurne Dorp - Gallifort,5,2018-09-01
+2018,09,Deurne Noord,1,2018-09-01
+2018,09,Deurne Zuid Oost,5,2018-09-01
+2018,09,Deurne Zuid West,22,2018-09-01
+2018,09,Eilandje,29,2018-09-01
+2018,09,Ekeren Centrum,4,2018-09-01
+2018,09,Groenenhoek,11,2018-09-01
+2018,09,Haringrode,22,2018-09-01
+2018,09,Harmonie,30,2018-09-01
+2018,09,Historisch Centrum,184,2018-09-01
+2018,09,Hoboken - Centrum,2,2018-09-01
+2018,09,Hoogte,1,2018-09-01
+2018,09,Kiel,7,2018-09-01
+2018,09,Linkeroever,12,2018-09-01
+2018,09,Markgrave,7,2018-09-01
+2018,09,Merksem - Heide,2,2018-09-01
+2018,09,Middelheim,4,2018-09-01
+2018,09,Nieuw - Kwartier Oost,12,2018-09-01
+2018,09,Nieuw - Zuid,1,2018-09-01
+2018,09,Oosterveld - Elsdonk,4,2018-09-01
+2018,09,Oud - Berchem,17,2018-09-01
+2018,09,Oud - Merksem,4,2018-09-01
+2018,09,Petroleum - Zuid,2,2018-09-01
+2018,09,Polder,1,2018-09-01
+2018,09,Sint-Andries,40,2018-09-01
+2018,09,Stadspark,31,2018-09-01
+2018,09,Stuivenberg,36,2018-09-01
+2018,09,Tentoonstellingswijk,2,2018-09-01
+2018,09,Theaterbuurt-Meir,116,2018-09-01
+2018,09,Tuinwijk,10,2018-09-01
+2018,09,Universiteitsbuurt,132,2018-09-01
+2018,09,Valaar,1,2018-09-01
+2018,09,Wilrijk Centrum,2,2018-09-01
+2018,09,Zuid,24,2018-09-01
+2018,09,Zurenborg,4,2018-09-01
+2018,10,Amandus - Atheneum,124,2018-10-01
+2018,10,Borgerhout Extra Muros,22,2018-10-01
+2018,10,Borgerhout Intra Muros Noord,29,2018-10-01
+2018,10,Borgerhout Intra Muros Zuid,37,2018-10-01
+2018,10,Brederode,19,2018-10-01
+2018,10,Centraal Station,63,2018-10-01
+2018,10,Dam,3,2018-10-01
+2018,10,Deurne Dorp - Gallifort,6,2018-10-01
+2018,10,Deurne Oost,7,2018-10-01
+2018,10,Deurne Zuid Oost,9,2018-10-01
+2018,10,Deurne Zuid West,21,2018-10-01
+2018,10,Eilandje,38,2018-10-01
+2018,10,Ekeren Centrum,10,2018-10-01
+2018,10,Groenenhoek,8,2018-10-01
+2018,10,Haringrode,24,2018-10-01
+2018,10,Harmonie,27,2018-10-01
+2018,10,Historisch Centrum,226,2018-10-01
+2018,10,Hoboken - Centrum,3,2018-10-01
+2018,10,Hoogte,1,2018-10-01
+2018,10,Kiel,8,2018-10-01
+2018,10,Linkeroever,8,2018-10-01
+2018,10,Markgrave,6,2018-10-01
+2018,10,Merksem - Heide,2,2018-10-01
+2018,10,Middelheim,6,2018-10-01
+2018,10,Nieuw - Kwartier Oost,4,2018-10-01
+2018,10,Nieuw - Zuid,3,2018-10-01
+2018,10,Oosterveld - Elsdonk,4,2018-10-01
+2018,10,Oud - Berchem,12,2018-10-01
+2018,10,Oud - Merksem,10,2018-10-01
+2018,10,Petroleum - Zuid,2,2018-10-01
+2018,10,Sint-Andries,56,2018-10-01
+2018,10,Stadspark,45,2018-10-01
+2018,10,Stuivenberg,43,2018-10-01
+2018,10,Tentoonstellingswijk,2,2018-10-01
+2018,10,Theaterbuurt-Meir,141,2018-10-01
+2018,10,Tuinwijk,14,2018-10-01
+2018,10,Universiteitsbuurt,116,2018-10-01
+2018,10,Valaar,1,2018-10-01
+2018,10,Wilrijk Centrum,3,2018-10-01
+2018,10,Zuid,30,2018-10-01
+2018,10,Zurenborg,7,2018-10-01
+2018,11,Amandus - Atheneum,102,2018-11-01
+2018,11,Borgerhout Extra Muros,15,2018-11-01
+2018,11,Borgerhout Intra Muros Noord,45,2018-11-01
+2018,11,Borgerhout Intra Muros Zuid,35,2018-11-01
+2018,11,Brederode,18,2018-11-01
+2018,11,Centraal Station,57,2018-11-01
+2018,11,Dam,6,2018-11-01
+2018,11,Deurne Dorp - Gallifort,6,2018-11-01
+2018,11,Deurne Oost,8,2018-11-01
+2018,11,Deurne Zuid Oost,11,2018-11-01
+2018,11,Deurne Zuid West,13,2018-11-01
+2018,11,Eilandje,23,2018-11-01
+2018,11,Ekeren Centrum,1,2018-11-01
+2018,11,Groenenhoek,7,2018-11-01
+2018,11,Haringrode,15,2018-11-01
+2018,11,Harmonie,19,2018-11-01
+2018,11,Historisch Centrum,197,2018-11-01
+2018,11,Hoboken - Centrum,1,2018-11-01
+2018,11,Hoogte,4,2018-11-01
+2018,11,Kiel,5,2018-11-01
+2018,11,Linkeroever,6,2018-11-01
+2018,11,Markgrave,7,2018-11-01
+2018,11,Merksem - Heide,2,2018-11-01
+2018,11,Middelheim,3,2018-11-01
+2018,11,Nieuw - Kwartier Oost,3,2018-11-01
+2018,11,Nieuw - Zuid,7,2018-11-01
+2018,11,Oosterveld - Elsdonk,1,2018-11-01
+2018,11,Oud - Berchem,14,2018-11-01
+2018,11,Oud - Merksem,5,2018-11-01
+2018,11,Petroleum - Zuid,1,2018-11-01
+2018,11,Polder,1,2018-11-01
+2018,11,Sint-Andries,43,2018-11-01
+2018,11,Stadspark,53,2018-11-01
+2018,11,Stuivenberg,41,2018-11-01
+2018,11,Theaterbuurt-Meir,109,2018-11-01
+2018,11,Tuinwijk,10,2018-11-01
+2018,11,Universiteitsbuurt,112,2018-11-01
+2018,11,Valaar,2,2018-11-01
+2018,11,Wilrijk Centrum,5,2018-11-01
+2018,11,Zuid,28,2018-11-01
+2018,11,Zurenborg,5,2018-11-01
+2018,12,Amandus - Atheneum,141,2018-12-01
+2018,12,Borgerhout Extra Muros,16,2018-12-01
+2018,12,Borgerhout Intra Muros Noord,43,2018-12-01
+2018,12,Borgerhout Intra Muros Zuid,34,2018-12-01
+2018,12,Brederode,15,2018-12-01
+2018,12,Centraal Station,67,2018-12-01
+2018,12,Dam,7,2018-12-01
+2018,12,Deurne Dorp - Gallifort,2,2018-12-01
+2018,12,Deurne Noord,3,2018-12-01
+2018,12,Deurne Oost,9,2018-12-01
+2018,12,Deurne Zuid Oost,10,2018-12-01
+2018,12,Deurne Zuid West,29,2018-12-01
+2018,12,Eilandje,40,2018-12-01
+2018,12,Ekeren Centrum,2,2018-12-01
+2018,12,Groenenhoek,8,2018-12-01
+2018,12,Haringrode,22,2018-12-01
+2018,12,Harmonie,37,2018-12-01
+2018,12,Historisch Centrum,221,2018-12-01
+2018,12,Hoboken - Noord,1,2018-12-01
+2018,12,Hoogte,4,2018-12-01
+2018,12,Kiel,5,2018-12-01
+2018,12,Linkeroever,12,2018-12-01
+2018,12,Markgrave,7,2018-12-01
+2018,12,Merksem - Heide,3,2018-12-01
+2018,12,Middelheim,2,2018-12-01
+2018,12,Nieuw - Kwartier Oost,3,2018-12-01
+2018,12,Nieuw - Zuid,7,2018-12-01
+2018,12,Oosterveld - Elsdonk,1,2018-12-01
+2018,12,Oud - Berchem,22,2018-12-01
+2018,12,Oud - Merksem,6,2018-12-01
+2018,12,Sint-Andries,55,2018-12-01
+2018,12,Stadspark,57,2018-12-01
+2018,12,Stuivenberg,52,2018-12-01
+2018,12,Tentoonstellingswijk,5,2018-12-01
+2018,12,Theaterbuurt-Meir,130,2018-12-01
+2018,12,Tuinwijk,11,2018-12-01
+2018,12,Universiteitsbuurt,125,2018-12-01
+2018,12,Valaar,1,2018-12-01
+2018,12,Wilrijk Centrum,6,2018-12-01
+2018,12,Zuid,40,2018-12-01
+2018,12,Zurenborg,2,2018-12-01
+2019,01,Amandus - Atheneum,94,2019-01-01
+2019,01,Borgerhout Extra Muros,16,2019-01-01
+2019,01,Borgerhout Intra Muros Noord,37,2019-01-01
+2019,01,Borgerhout Intra Muros Zuid,22,2019-01-01
+2019,01,Brederode,8,2019-01-01
+2019,01,Centraal Station,45,2019-01-01
+2019,01,Dam,6,2019-01-01
+2019,01,Deurne Dorp - Gallifort,2,2019-01-01
+2019,01,Deurne Oost,4,2019-01-01
+2019,01,Deurne Zuid Oost,8,2019-01-01
+2019,01,Deurne Zuid West,16,2019-01-01
+2019,01,Eilandje,31,2019-01-01
+2019,01,Ekeren Centrum,9,2019-01-01
+2019,01,Groenenhoek,5,2019-01-01
+2019,01,Haringrode,16,2019-01-01
+2019,01,Harmonie,44,2019-01-01
+2019,01,Historisch Centrum,210,2019-01-01
+2019,01,Hoboken - Centrum,3,2019-01-01
+2019,01,Hoogte,2,2019-01-01
+2019,01,Kiel,6,2019-01-01
+2019,01,Linkeroever,3,2019-01-01
+2019,01,Markgrave,3,2019-01-01
+2019,01,Merksem - Heide,6,2019-01-01
+2019,01,Middelheim,1,2019-01-01
+2019,01,Nieuw - Kwartier Oost,5,2019-01-01
+2019,01,Nieuw - Kwartier West,2,2019-01-01
+2019,01,Nieuw - Zuid,5,2019-01-01
+2019,01,Oosterveld - Elsdonk,1,2019-01-01
+2019,01,Oud - Berchem,13,2019-01-01
+2019,01,Oud - Merksem,5,2019-01-01
+2019,01,Petroleum - Zuid,4,2019-01-01
+2019,01,Sint-Andries,47,2019-01-01
+2019,01,Stadspark,44,2019-01-01
+2019,01,Stuivenberg,33,2019-01-01
+2019,01,Tentoonstellingswijk,2,2019-01-01
+2019,01,Theaterbuurt-Meir,123,2019-01-01
+2019,01,Tuinwijk,3,2019-01-01
+2019,01,Universiteitsbuurt,118,2019-01-01
+2019,01,Valaar,2,2019-01-01
+2019,01,Wilrijk Centrum,5,2019-01-01
+2019,01,Zuid,29,2019-01-01
+2019,01,Zurenborg,2,2019-01-01
+2019,02,Amandus - Atheneum,111,2019-02-01
+2019,02,Borgerhout Extra Muros,9,2019-02-01
+2019,02,Borgerhout Intra Muros Noord,34,2019-02-01
+2019,02,Borgerhout Intra Muros Zuid,28,2019-02-01
+2019,02,Brederode,14,2019-02-01
+2019,02,Centraal Station,54,2019-02-01
+2019,02,Dam,4,2019-02-01
+2019,02,Deurne Dorp - Gallifort,4,2019-02-01
+2019,02,Deurne Oost,3,2019-02-01
+2019,02,Deurne Zuid Oost,4,2019-02-01
+2019,02,Deurne Zuid West,14,2019-02-01
+2019,02,Eilandje,25,2019-02-01
+2019,02,Ekeren Centrum,8,2019-02-01
+2019,02,Groenenhoek,6,2019-02-01
+2019,02,Haringrode,17,2019-02-01
+2019,02,Harmonie,36,2019-02-01
+2019,02,Historisch Centrum,231,2019-02-01
+2019,02,Hoboken - Centrum,2,2019-02-01
+2019,02,Hoboken - Noord,2,2019-02-01
+2019,02,Hoogte,4,2019-02-01
+2019,02,Kiel,5,2019-02-01
+2019,02,Leugenberg,3,2019-02-01
+2019,02,Linkeroever,5,2019-02-01
+2019,02,Markgrave,3,2019-02-01
+2019,02,Merksem - Heide,6,2019-02-01
+2019,02,Nieuw - Kwartier Oost,4,2019-02-01
+2019,02,Nieuw - Kwartier West,3,2019-02-01
+2019,02,Nieuw - Zuid,2,2019-02-01
+2019,02,Oosterveld - Elsdonk,1,2019-02-01
+2019,02,Oud - Berchem,20,2019-02-01
+2019,02,Petroleum - Zuid,2,2019-02-01
+2019,02,Polder,2,2019-02-01
+2019,02,Sint-Andries,32,2019-02-01
+2019,02,Stadspark,40,2019-02-01
+2019,02,Stuivenberg,58,2019-02-01
+2019,02,Tentoonstellingswijk,4,2019-02-01
+2019,02,Theaterbuurt-Meir,111,2019-02-01
+2019,02,Tuinwijk,6,2019-02-01
+2019,02,Universiteitsbuurt,98,2019-02-01
+2019,02,Wilrijk Centrum,7,2019-02-01
+2019,02,Zuid,30,2019-02-01
+2019,02,Zurenborg,3,2019-02-01
+2019,03,Amandus - Atheneum,124,2019-03-01
+2019,03,Borgerhout Extra Muros,19,2019-03-01
+2019,03,Borgerhout Intra Muros Noord,51,2019-03-01
+2019,03,Borgerhout Intra Muros Zuid,45,2019-03-01
+2019,03,Brederode,22,2019-03-01
+2019,03,Centraal Station,79,2019-03-01
+2019,03,Dam,3,2019-03-01
+2019,03,Deurne Dorp - Gallifort,4,2019-03-01
+2019,03,Deurne Oost,6,2019-03-01
+2019,03,Deurne Zuid Oost,2,2019-03-01
+2019,03,Deurne Zuid West,10,2019-03-01
+2019,03,Eilandje,35,2019-03-01
+2019,03,Ekeren Centrum,4,2019-03-01
+2019,03,Groenenhoek,9,2019-03-01
+2019,03,Haringrode,24,2019-03-01
+2019,03,Harmonie,44,2019-03-01
+2019,03,Historisch Centrum,291,2019-03-01
+2019,03,Hoboken - Centrum,6,2019-03-01
+2019,03,Hoboken - Noord,2,2019-03-01
+2019,03,Hoogte,9,2019-03-01
+2019,03,Kiel,4,2019-03-01
+2019,03,Leugenberg,1,2019-03-01
+2019,03,Linkeroever,9,2019-03-01
+2019,03,Markgrave,9,2019-03-01
+2019,03,Merksem - Heide,7,2019-03-01
+2019,03,Middelheim,3,2019-03-01
+2019,03,Nieuw - Kwartier Oost,7,2019-03-01
+2019,03,Nieuw - Kwartier West,1,2019-03-01
+2019,03,Nieuw - Zuid,7,2019-03-01
+2019,03,Oosterveld - Elsdonk,4,2019-03-01
+2019,03,Oud - Berchem,27,2019-03-01
+2019,03,Oud - Merksem,8,2019-03-01
+2019,03,Sint-Andries,55,2019-03-01
+2019,03,Stadspark,63,2019-03-01
+2019,03,Stuivenberg,61,2019-03-01
+2019,03,Tentoonstellingswijk,1,2019-03-01
+2019,03,Theaterbuurt-Meir,145,2019-03-01
+2019,03,Tuinwijk,5,2019-03-01
+2019,03,Universiteitsbuurt,136,2019-03-01
+2019,03,Valaar,2,2019-03-01
+2019,03,Zuid,38,2019-03-01
+2019,03,Zurenborg,1,2019-03-01
+2019,04,Amandus - Atheneum,182,2019-04-01
+2019,04,Borgerhout Extra Muros,31,2019-04-01
+2019,04,Borgerhout Intra Muros Noord,73,2019-04-01
+2019,04,Borgerhout Intra Muros Zuid,55,2019-04-01
+2019,04,Brederode,26,2019-04-01
+2019,04,Centraal Station,83,2019-04-01
+2019,04,Dam,10,2019-04-01
+2019,04,Deurne Dorp - Gallifort,8,2019-04-01
+2019,04,Deurne Oost,4,2019-04-01
+2019,04,Deurne Zuid Oost,10,2019-04-01
+2019,04,Deurne Zuid West,24,2019-04-01
+2019,04,Eilandje,51,2019-04-01
+2019,04,Ekeren Centrum,11,2019-04-01
+2019,04,Groenenhoek,15,2019-04-01
+2019,04,Haringrode,27,2019-04-01
+2019,04,Harmonie,51,2019-04-01
+2019,04,Historisch Centrum,340,2019-04-01
+2019,04,Hoboken - Centrum,3,2019-04-01
+2019,04,Hoogte,13,2019-04-01
+2019,04,Kiel,7,2019-04-01
+2019,04,Linkeroever,13,2019-04-01
+2019,04,Markgrave,12,2019-04-01
+2019,04,Merksem - Heide,2,2019-04-01
+2019,04,Middelheim,6,2019-04-01
+2019,04,Nieuw - Kwartier Oost,8,2019-04-01
+2019,04,Nieuw - Kwartier West,1,2019-04-01
+2019,04,Nieuw - Zuid,7,2019-04-01
+2019,04,Nieuwdreef,3,2019-04-01
+2019,04,Oosterveld - Elsdonk,2,2019-04-01
+2019,04,Oud - Berchem,33,2019-04-01
+2019,04,Oud - Merksem,3,2019-04-01
+2019,04,Petroleum - Zuid,1,2019-04-01
+2019,04,Sint-Andries,78,2019-04-01
+2019,04,Stadspark,113,2019-04-01
+2019,04,Stuivenberg,58,2019-04-01
+2019,04,Theaterbuurt-Meir,182,2019-04-01
+2019,04,Tuinwijk,10,2019-04-01
+2019,04,Universiteitsbuurt,134,2019-04-01
+2019,04,Valaar,4,2019-04-01
+2019,04,Zuid,40,2019-04-01
+2019,04,Zurenborg,4,2019-04-01
+2019,05,Amandus - Atheneum,156,2019-05-01
+2019,05,Borgerhout Extra Muros,23,2019-05-01
+2019,05,Borgerhout Intra Muros Noord,86,2019-05-01
+2019,05,Borgerhout Intra Muros Zuid,38,2019-05-01
+2019,05,Brederode,26,2019-05-01
+2019,05,Centraal Station,74,2019-05-01
+2019,05,Dam,10,2019-05-01
+2019,05,Deurne Dorp - Gallifort,9,2019-05-01
+2019,05,Deurne Oost,3,2019-05-01
+2019,05,Deurne Zuid Oost,12,2019-05-01
+2019,05,Deurne Zuid West,24,2019-05-01
+2019,05,Eilandje,51,2019-05-01
+2019,05,Ekeren Centrum,12,2019-05-01
+2019,05,Groenenhoek,15,2019-05-01
+2019,05,Haringrode,21,2019-05-01
+2019,05,Harmonie,74,2019-05-01
+2019,05,Historisch Centrum,321,2019-05-01
+2019,05,Hoboken - Centrum,5,2019-05-01
+2019,05,Hoogte,15,2019-05-01
+2019,05,Kiel,4,2019-05-01
+2019,05,Leugenberg,5,2019-05-01
+2019,05,Linkeroever,17,2019-05-01
+2019,05,Markgrave,7,2019-05-01
+2019,05,Merksem - Heide,5,2019-05-01
+2019,05,Middelheim,4,2019-05-01
+2019,05,Nieuw - Kwartier Oost,7,2019-05-01
+2019,05,Nieuw - Kwartier West,1,2019-05-01
+2019,05,Nieuw - Zuid,7,2019-05-01
+2019,05,Nieuwdreef,8,2019-05-01
+2019,05,Oosterveld - Elsdonk,4,2019-05-01
+2019,05,Oud - Berchem,38,2019-05-01
+2019,05,Oud - Merksem,1,2019-05-01
+2019,05,Petroleum - Zuid,3,2019-05-01
+2019,05,Polder,3,2019-05-01
+2019,05,Sint-Andries,68,2019-05-01
+2019,05,Stadspark,102,2019-05-01
+2019,05,Stuivenberg,56,2019-05-01
+2019,05,Theaterbuurt-Meir,158,2019-05-01
+2019,05,Tuinwijk,8,2019-05-01
+2019,05,Universiteitsbuurt,125,2019-05-01
+2019,05,Valaar,2,2019-05-01
+2019,05,Wilrijk Centrum,4,2019-05-01
+2019,05,Zuid,44,2019-05-01
+2019,05,Zurenborg,3,2019-05-01
+2019,06,Amandus - Atheneum,177,2019-06-01
+2019,06,Borgerhout Extra Muros,20,2019-06-01
+2019,06,Borgerhout Intra Muros Noord,66,2019-06-01
+2019,06,Borgerhout Intra Muros Zuid,52,2019-06-01
+2019,06,Brederode,34,2019-06-01
+2019,06,Centraal Station,109,2019-06-01
+2019,06,Dam,7,2019-06-01
+2019,06,Deurne Dorp - Gallifort,6,2019-06-01
+2019,06,Deurne Oost,3,2019-06-01
+2019,06,Deurne Zuid Oost,11,2019-06-01
+2019,06,Deurne Zuid West,19,2019-06-01
+2019,06,Eilandje,50,2019-06-01
+2019,06,Ekeren Centrum,10,2019-06-01
+2019,06,Groenenhoek,22,2019-06-01
+2019,06,Haringrode,27,2019-06-01
+2019,06,Harmonie,60,2019-06-01
+2019,06,Historisch Centrum,323,2019-06-01
+2019,06,Hoboken - Centrum,9,2019-06-01
+2019,06,Hoboken - Noord,3,2019-06-01
+2019,06,Hoogte,11,2019-06-01
+2019,06,Kiel,6,2019-06-01
+2019,06,Leugenberg,1,2019-06-01
+2019,06,Linkeroever,16,2019-06-01
+2019,06,Markgrave,16,2019-06-01
+2019,06,Merksem - Heide,9,2019-06-01
+2019,06,Middelheim,5,2019-06-01
+2019,06,Nieuw - Kwartier Oost,2,2019-06-01
+2019,06,Nieuw - Kwartier West,4,2019-06-01
+2019,06,Nieuw - Zuid,8,2019-06-01
+2019,06,Nieuwdreef,1,2019-06-01
+2019,06,Oosterveld - Elsdonk,3,2019-06-01
+2019,06,Oud - Berchem,32,2019-06-01
+2019,06,Oud - Merksem,6,2019-06-01
+2019,06,Petroleum - Zuid,4,2019-06-01
+2019,06,Polder,3,2019-06-01
+2019,06,Sint-Andries,78,2019-06-01
+2019,06,Stadspark,80,2019-06-01
+2019,06,Stuivenberg,59,2019-06-01
+2019,06,Tentoonstellingswijk,1,2019-06-01
+2019,06,Theaterbuurt-Meir,161,2019-06-01
+2019,06,Tuinwijk,6,2019-06-01
+2019,06,Universiteitsbuurt,151,2019-06-01
+2019,06,Valaar,1,2019-06-01
+2019,06,Wilrijk Centrum,5,2019-06-01
+2019,06,Zuid,61,2019-06-01
+2019,06,Zurenborg,2,2019-06-01
+2019,07,Amandus - Atheneum,233,2019-07-01
+2019,07,Borgerhout Extra Muros,26,2019-07-01
+2019,07,Borgerhout Intra Muros Noord,74,2019-07-01
+2019,07,Borgerhout Intra Muros Zuid,64,2019-07-01
+2019,07,Brederode,45,2019-07-01
+2019,07,Centraal Station,121,2019-07-01
+2019,07,Dam,12,2019-07-01
+2019,07,Deurne Dorp - Gallifort,15,2019-07-01
+2019,07,Deurne Noord,2,2019-07-01
+2019,07,Deurne Oost,3,2019-07-01
+2019,07,Deurne Zuid Oost,10,2019-07-01
+2019,07,Deurne Zuid West,29,2019-07-01
+2019,07,Eilandje,57,2019-07-01
+2019,07,Ekeren Centrum,16,2019-07-01
+2019,07,Groenenhoek,10,2019-07-01
+2019,07,Haringrode,19,2019-07-01
+2019,07,Harmonie,45,2019-07-01
+2019,07,Historisch Centrum,364,2019-07-01
+2019,07,Hoboken - Centrum,6,2019-07-01
+2019,07,Hoboken - Noord,2,2019-07-01
+2019,07,Hoogte,14,2019-07-01
+2019,07,Kiel,8,2019-07-01
+2019,07,Leugenberg,1,2019-07-01
+2019,07,Linkeroever,19,2019-07-01
+2019,07,Markgrave,22,2019-07-01
+2019,07,Merksem - Heide,7,2019-07-01
+2019,07,Middelheim,13,2019-07-01
+2019,07,Nieuw - Kwartier Oost,12,2019-07-01
+2019,07,Nieuw - Kwartier West,1,2019-07-01
+2019,07,Nieuw - Zuid,5,2019-07-01
+2019,07,Oosterveld - Elsdonk,3,2019-07-01
+2019,07,Oud - Berchem,41,2019-07-01
+2019,07,Oud - Merksem,10,2019-07-01
+2019,07,Petroleum - Zuid,3,2019-07-01
+2019,07,Polder,2,2019-07-01
+2019,07,Sint-Andries,72,2019-07-01
+2019,07,Stadspark,120,2019-07-01
+2019,07,Stuivenberg,71,2019-07-01
+2019,07,Tentoonstellingswijk,1,2019-07-01
+2019,07,Theaterbuurt-Meir,197,2019-07-01
+2019,07,Tuinwijk,10,2019-07-01
+2019,07,Universiteitsbuurt,158,2019-07-01
+2019,07,Valaar,2,2019-07-01
+2019,07,Wilrijk Centrum,6,2019-07-01
+2019,07,Zuid,67,2019-07-01
+2019,07,Zurenborg,8,2019-07-01
+2019,08,Amandus - Atheneum,182,2019-08-01
+2019,08,Borgerhout Extra Muros,27,2019-08-01
+2019,08,Borgerhout Intra Muros Noord,75,2019-08-01
+2019,08,Borgerhout Intra Muros Zuid,74,2019-08-01
+2019,08,Brederode,34,2019-08-01
+2019,08,Centraal Station,127,2019-08-01
+2019,08,Dam,5,2019-08-01
+2019,08,Deurne Dorp - Gallifort,10,2019-08-01
+2019,08,Deurne Noord,4,2019-08-01
+2019,08,Deurne Oost,2,2019-08-01
+2019,08,Deurne Zuid Oost,16,2019-08-01
+2019,08,Deurne Zuid West,23,2019-08-01
+2019,08,Eilandje,51,2019-08-01
+2019,08,Ekeren Centrum,11,2019-08-01
+2019,08,Groenenhoek,8,2019-08-01
+2019,08,Haringrode,21,2019-08-01
+2019,08,Harmonie,47,2019-08-01
+2019,08,Historisch Centrum,341,2019-08-01
+2019,08,Hoboken - Centrum,9,2019-08-01
+2019,08,Hoogte,12,2019-08-01
+2019,08,Kiel,8,2019-08-01
+2019,08,Leugenberg,3,2019-08-01
+2019,08,Linkeroever,26,2019-08-01
+2019,08,Markgrave,22,2019-08-01
+2019,08,Merksem - Heide,5,2019-08-01
+2019,08,Middelheim,8,2019-08-01
+2019,08,Nieuw - Kwartier Oost,2,2019-08-01
+2019,08,Nieuw - Kwartier West,3,2019-08-01
+2019,08,Nieuw - Zuid,3,2019-08-01
+2019,08,Nieuwdreef,4,2019-08-01
+2019,08,Oosterveld - Elsdonk,3,2019-08-01
+2019,08,Oud - Berchem,37,2019-08-01
+2019,08,Oud - Merksem,15,2019-08-01
+2019,08,Petroleum - Zuid,2,2019-08-01
+2019,08,Polder,2,2019-08-01
+2019,08,Sint-Andries,63,2019-08-01
+2019,08,Stadspark,114,2019-08-01
+2019,08,Stuivenberg,69,2019-08-01
+2019,08,Tentoonstellingswijk,1,2019-08-01
+2019,08,Theaterbuurt-Meir,203,2019-08-01
+2019,08,Tuinwijk,11,2019-08-01
+2019,08,Universiteitsbuurt,164,2019-08-01
+2019,08,Valaar,2,2019-08-01
+2019,08,Wilrijk Centrum,7,2019-08-01
+2019,08,Zuid,51,2019-08-01
+2019,08,Zurenborg,17,2019-08-01
+2019,09,Amandus - Atheneum,164,2019-09-01
+2019,09,Borgerhout Extra Muros,22,2019-09-01
+2019,09,Borgerhout Intra Muros Noord,65,2019-09-01
+2019,09,Borgerhout Intra Muros Zuid,50,2019-09-01
+2019,09,Brederode,29,2019-09-01
+2019,09,Centraal Station,120,2019-09-01
+2019,09,Dam,9,2019-09-01
+2019,09,Deurne Dorp - Gallifort,5,2019-09-01
+2019,09,Deurne Noord,6,2019-09-01
+2019,09,Deurne Oost,2,2019-09-01
+2019,09,Deurne Zuid Oost,11,2019-09-01
+2019,09,Deurne Zuid West,17,2019-09-01
+2019,09,Eilandje,42,2019-09-01
+2019,09,Ekeren Centrum,10,2019-09-01
+2019,09,Groenenhoek,14,2019-09-01
+2019,09,Haringrode,17,2019-09-01
+2019,09,Harmonie,46,2019-09-01
+2019,09,Historisch Centrum,358,2019-09-01
+2019,09,Hoboken - Centrum,7,2019-09-01
+2019,09,Hoogte,12,2019-09-01
+2019,09,Kiel,3,2019-09-01
+2019,09,Leugenberg,1,2019-09-01
+2019,09,Linkeroever,18,2019-09-01
+2019,09,Markgrave,16,2019-09-01
+2019,09,Merksem - Heide,8,2019-09-01
+2019,09,Middelheim,5,2019-09-01
+2019,09,Nieuw - Kwartier Oost,11,2019-09-01
+2019,09,Nieuw - Kwartier West,2,2019-09-01
+2019,09,Nieuw - Zuid,7,2019-09-01
+2019,09,Nieuwdreef,1,2019-09-01
+2019,09,Oosterveld - Elsdonk,5,2019-09-01
+2019,09,Oud - Berchem,41,2019-09-01
+2019,09,Oud - Merksem,7,2019-09-01
+2019,09,Petroleum - Zuid,1,2019-09-01
+2019,09,Polder,1,2019-09-01
+2019,09,Sint-Andries,64,2019-09-01
+2019,09,Stadspark,108,2019-09-01
+2019,09,Stuivenberg,59,2019-09-01
+2019,09,Theaterbuurt-Meir,174,2019-09-01
+2019,09,Tuinwijk,4,2019-09-01
+2019,09,Universiteitsbuurt,175,2019-09-01
+2019,09,Valaar,2,2019-09-01
+2019,09,Wilrijk Centrum,5,2019-09-01
+2019,09,Zuid,45,2019-09-01
+2019,09,Zurenborg,17,2019-09-01
+2019,10,Amandus - Atheneum,190,2019-10-01
+2019,10,Borgerhout Extra Muros,23,2019-10-01
+2019,10,Borgerhout Intra Muros Noord,80,2019-10-01
+2019,10,Borgerhout Intra Muros Zuid,63,2019-10-01
+2019,10,Brederode,25,2019-10-01
+2019,10,Centraal Station,111,2019-10-01
+2019,10,Dam,9,2019-10-01
+2019,10,Deurne Dorp - Gallifort,14,2019-10-01
+2019,10,Deurne Noord,4,2019-10-01
+2019,10,Deurne Oost,2,2019-10-01
+2019,10,Deurne Zuid Oost,14,2019-10-01
+2019,10,Deurne Zuid West,22,2019-10-01
+2019,10,Eilandje,53,2019-10-01
+2019,10,Ekeren Centrum,13,2019-10-01
+2019,10,Groenenhoek,15,2019-10-01
+2019,10,Haringrode,13,2019-10-01
+2019,10,Harmonie,56,2019-10-01
+2019,10,Historisch Centrum,407,2019-10-01
+2019,10,Hoboken - Centrum,8,2019-10-01
+2019,10,Hoboken - Noord,1,2019-10-01
+2019,10,Hoogte,14,2019-10-01
+2019,10,Kiel,4,2019-10-01
+2019,10,Leugenberg,4,2019-10-01
+2019,10,Linkeroever,13,2019-10-01
+2019,10,Markgrave,19,2019-10-01
+2019,10,Merksem - Heide,8,2019-10-01
+2019,10,Middelheim,9,2019-10-01
+2019,10,Nieuw - Kwartier Oost,5,2019-10-01
+2019,10,Nieuw - Kwartier West,1,2019-10-01
+2019,10,Nieuw - Zuid,6,2019-10-01
+2019,10,Nieuwdreef,3,2019-10-01
+2019,10,Oosterveld - Elsdonk,3,2019-10-01
+2019,10,Oud - Berchem,34,2019-10-01
+2019,10,Oud - Merksem,9,2019-10-01
+2019,10,Polder,1,2019-10-01
+2019,10,Sint-Andries,86,2019-10-01
+2019,10,Stadspark,115,2019-10-01
+2019,10,Stuivenberg,47,2019-10-01
+2019,10,Theaterbuurt-Meir,212,2019-10-01
+2019,10,Tuinwijk,5,2019-10-01
+2019,10,Universiteitsbuurt,168,2019-10-01
+2019,10,Valaar,3,2019-10-01
+2019,10,Wilrijk Centrum,5,2019-10-01
+2019,10,Zuid,60,2019-10-01
+2019,10,Zurenborg,17,2019-10-01
+2019,11,Amandus - Atheneum,176,2019-11-01
+2019,11,Borgerhout Extra Muros,20,2019-11-01
+2019,11,Borgerhout Intra Muros Noord,91,2019-11-01
+2019,11,Borgerhout Intra Muros Zuid,41,2019-11-01
+2019,11,Brederode,26,2019-11-01
+2019,11,Centraal Station,106,2019-11-01
+2019,11,Dam,7,2019-11-01
+2019,11,Deurne Dorp - Gallifort,12,2019-11-01
+2019,11,Deurne Noord,12,2019-11-01
+2019,11,Deurne Oost,2,2019-11-01
+2019,11,Deurne Zuid Oost,8,2019-11-01
+2019,11,Deurne Zuid West,16,2019-11-01
+2019,11,Eilandje,45,2019-11-01
+2019,11,Ekeren Centrum,8,2019-11-01
+2019,11,Groenenhoek,10,2019-11-01
+2019,11,Haringrode,14,2019-11-01
+2019,11,Harmonie,39,2019-11-01
+2019,11,Historisch Centrum,360,2019-11-01
+2019,11,Hoboken - Centrum,7,2019-11-01
+2019,11,Hoogte,12,2019-11-01
+2019,11,Kiel,4,2019-11-01
+2019,11,Leugenberg,2,2019-11-01
+2019,11,Linkeroever,9,2019-11-01
+2019,11,Markgrave,14,2019-11-01
+2019,11,Merksem - Heide,5,2019-11-01
+2019,11,Middelheim,8,2019-11-01
+2019,11,Nieuw - Kwartier Oost,7,2019-11-01
+2019,11,Nieuw - Zuid,7,2019-11-01
+2019,11,Nieuwdreef,4,2019-11-01
+2019,11,Oosterveld - Elsdonk,3,2019-11-01
+2019,11,Oud - Berchem,34,2019-11-01
+2019,11,Oud - Merksem,7,2019-11-01
+2019,11,Petroleum - Zuid,2,2019-11-01
+2019,11,Polder,3,2019-11-01
+2019,11,Sint-Andries,80,2019-11-01
+2019,11,Stadspark,116,2019-11-01
+2019,11,Stuivenberg,47,2019-11-01
+2019,11,Theaterbuurt-Meir,193,2019-11-01
+2019,11,Tuinwijk,5,2019-11-01
+2019,11,Universiteitsbuurt,168,2019-11-01
+2019,11,Valaar,4,2019-11-01
+2019,11,Wilrijk Centrum,13,2019-11-01
+2019,11,Zuid,54,2019-11-01
+2019,11,Zurenborg,10,2019-11-01
+2019,12,Amandus - Atheneum,223,2019-12-01
+2019,12,Borgerhout Extra Muros,21,2019-12-01
+2019,12,Borgerhout Intra Muros Noord,71,2019-12-01
+2019,12,Borgerhout Intra Muros Zuid,51,2019-12-01
+2019,12,Brederode,48,2019-12-01
+2019,12,Centraal Station,90,2019-12-01
+2019,12,Dam,5,2019-12-01
+2019,12,Deurne Dorp - Gallifort,15,2019-12-01
+2019,12,Deurne Noord,10,2019-12-01
+2019,12,Deurne Oost,1,2019-12-01
+2019,12,Deurne Zuid Oost,5,2019-12-01
+2019,12,Deurne Zuid West,25,2019-12-01
+2019,12,Eilandje,37,2019-12-01
+2019,12,Ekeren Centrum,11,2019-12-01
+2019,12,Groenenhoek,6,2019-12-01
+2019,12,Haringrode,18,2019-12-01
+2019,12,Harmonie,43,2019-12-01
+2019,12,Historisch Centrum,414,2019-12-01
+2019,12,Hoboken - Centrum,3,2019-12-01
+2019,12,Hoogte,3,2019-12-01
+2019,12,Kiel,5,2019-12-01
+2019,12,Linkeroever,11,2019-12-01
+2019,12,Markgrave,16,2019-12-01
+2019,12,Merksem - Heide,3,2019-12-01
+2019,12,Middelheim,11,2019-12-01
+2019,12,Nieuw - Kwartier Oost,6,2019-12-01
+2019,12,Nieuw - Kwartier West,1,2019-12-01
+2019,12,Nieuw - Zuid,2,2019-12-01
+2019,12,Nieuwdreef,4,2019-12-01
+2019,12,Oosterveld - Elsdonk,8,2019-12-01
+2019,12,Oud - Berchem,35,2019-12-01
+2019,12,Oud - Merksem,14,2019-12-01
+2019,12,Petroleum - Zuid,1,2019-12-01
+2019,12,Polder,2,2019-12-01
+2019,12,Sint-Andries,86,2019-12-01
+2019,12,Stadspark,88,2019-12-01
+2019,12,Stuivenberg,39,2019-12-01
+2019,12,Theaterbuurt-Meir,231,2019-12-01
+2019,12,Tuinwijk,3,2019-12-01
+2019,12,Universiteitsbuurt,150,2019-12-01
+2019,12,Valaar,1,2019-12-01
+2019,12,Wilrijk Centrum,5,2019-12-01
+2019,12,Zuid,55,2019-12-01
+2019,12,Zurenborg,13,2019-12-01
+2020,01,Amandus - Atheneum,156,2020-01-01
+2020,01,Borgerhout Extra Muros,29,2020-01-01
+2020,01,Borgerhout Intra Muros Noord,49,2020-01-01
+2020,01,Borgerhout Intra Muros Zuid,33,2020-01-01
+2020,01,Brederode,39,2020-01-01
+2020,01,Centraal Station,63,2020-01-01
+2020,01,Dam,4,2020-01-01
+2020,01,Deurne Dorp - Gallifort,4,2020-01-01
+2020,01,Deurne Noord,10,2020-01-01
+2020,01,Deurne Oost,3,2020-01-01
+2020,01,Deurne Zuid Oost,4,2020-01-01
+2020,01,Deurne Zuid West,16,2020-01-01
+2020,01,Eilandje,40,2020-01-01
+2020,01,Ekeren Centrum,6,2020-01-01
+2020,01,Groenenhoek,9,2020-01-01
+2020,01,Haringrode,24,2020-01-01
+2020,01,Harmonie,40,2020-01-01
+2020,01,Historisch Centrum,364,2020-01-01
+2020,01,Hoboken - Centrum,7,2020-01-01
+2020,01,Hoboken - Noord,1,2020-01-01
+2020,01,Hoogte,10,2020-01-01
+2020,01,Kiel,5,2020-01-01
+2020,01,Leugenberg,1,2020-01-01
+2020,01,Linkeroever,7,2020-01-01
+2020,01,Markgrave,8,2020-01-01
+2020,01,Merksem - Heide,5,2020-01-01
+2020,01,Middelheim,7,2020-01-01
+2020,01,Nieuw - Kwartier Oost,6,2020-01-01
+2020,01,Nieuw - Zuid,6,2020-01-01
+2020,01,Nieuwdreef,4,2020-01-01
+2020,01,Oosterveld - Elsdonk,11,2020-01-01
+2020,01,Oud - Berchem,25,2020-01-01
+2020,01,Oud - Merksem,5,2020-01-01
+2020,01,Petroleum - Zuid,2,2020-01-01
+2020,01,Polder,4,2020-01-01
+2020,01,Sint-Andries,69,2020-01-01
+2020,01,Stadspark,76,2020-01-01
+2020,01,Stuivenberg,30,2020-01-01
+2020,01,Theaterbuurt-Meir,203,2020-01-01
+2020,01,Tuinwijk,3,2020-01-01
+2020,01,Universiteitsbuurt,134,2020-01-01
+2020,01,Valaar,1,2020-01-01
+2020,01,Wilrijk Centrum,4,2020-01-01
+2020,01,Zuid,42,2020-01-01
+2020,01,Zurenborg,15,2020-01-01
+2020,02,Amandus - Atheneum,175,2020-02-01
+2020,02,Borgerhout Extra Muros,34,2020-02-01
+2020,02,Borgerhout Intra Muros Noord,65,2020-02-01
+2020,02,Borgerhout Intra Muros Zuid,21,2020-02-01
+2020,02,Brederode,39,2020-02-01
+2020,02,Centraal Station,66,2020-02-01
+2020,02,Dam,1,2020-02-01
+2020,02,Deurne Dorp - Gallifort,16,2020-02-01
+2020,02,Deurne Noord,17,2020-02-01
+2020,02,Deurne Zuid Oost,10,2020-02-01
+2020,02,Deurne Zuid West,20,2020-02-01
+2020,02,Eilandje,40,2020-02-01
+2020,02,Ekeren Centrum,4,2020-02-01
+2020,02,Groenenhoek,7,2020-02-01
+2020,02,Haringrode,18,2020-02-01
+2020,02,Harmonie,40,2020-02-01
+2020,02,Historisch Centrum,409,2020-02-01
+2020,02,Hoboken - Centrum,6,2020-02-01
+2020,02,Hoboken - Noord,1,2020-02-01
+2020,02,Hoogte,6,2020-02-01
+2020,02,Kiel,7,2020-02-01
+2020,02,Linkeroever,4,2020-02-01
+2020,02,Markgrave,13,2020-02-01
+2020,02,Merksem - Heide,5,2020-02-01
+2020,02,Middelheim,9,2020-02-01
+2020,02,Nieuw - Kwartier Oost,9,2020-02-01
+2020,02,Nieuw - Zuid,5,2020-02-01
+2020,02,Nieuwdreef,5,2020-02-01
+2020,02,Oosterveld - Elsdonk,8,2020-02-01
+2020,02,Oud - Berchem,31,2020-02-01
+2020,02,Oud - Merksem,5,2020-02-01
+2020,02,Petroleum - Zuid,1,2020-02-01
+2020,02,Polder,6,2020-02-01
+2020,02,Sint-Andries,86,2020-02-01
+2020,02,Stadspark,64,2020-02-01
+2020,02,Stuivenberg,38,2020-02-01
+2020,02,Theaterbuurt-Meir,220,2020-02-01
+2020,02,Tuinwijk,1,2020-02-01
+2020,02,Universiteitsbuurt,177,2020-02-01
+2020,02,Valaar,3,2020-02-01
+2020,02,Wilrijk Centrum,3,2020-02-01
+2020,02,Zuid,35,2020-02-01
+2020,02,Zurenborg,8,2020-02-01
+2020,03,Amandus - Atheneum,100,2020-03-01
+2020,03,Borgerhout Extra Muros,18,2020-03-01
+2020,03,Borgerhout Intra Muros Noord,51,2020-03-01
+2020,03,Borgerhout Intra Muros Zuid,21,2020-03-01
+2020,03,Brederode,23,2020-03-01
+2020,03,Centraal Station,43,2020-03-01
+2020,03,Dam,2,2020-03-01
+2020,03,Deurne Dorp - Gallifort,5,2020-03-01
+2020,03,Deurne Noord,9,2020-03-01
+2020,03,Deurne Zuid Oost,5,2020-03-01
+2020,03,Deurne Zuid West,14,2020-03-01
+2020,03,Eilandje,29,2020-03-01
+2020,03,Ekeren Centrum,4,2020-03-01
+2020,03,Groenenhoek,6,2020-03-01
+2020,03,Haringrode,12,2020-03-01
+2020,03,Harmonie,28,2020-03-01
+2020,03,Historisch Centrum,217,2020-03-01
+2020,03,Hoboken - Centrum,4,2020-03-01
+2020,03,Hoogte,8,2020-03-01
+2020,03,Kiel,5,2020-03-01
+2020,03,Linkeroever,6,2020-03-01
+2020,03,Markgrave,12,2020-03-01
+2020,03,Merksem - Heide,1,2020-03-01
+2020,03,Middelheim,3,2020-03-01
+2020,03,Nieuw - Kwartier Oost,9,2020-03-01
+2020,03,Nieuw - Kwartier West,2,2020-03-01
+2020,03,Nieuw - Zuid,3,2020-03-01
+2020,03,Nieuwdreef,1,2020-03-01
+2020,03,Oosterveld - Elsdonk,4,2020-03-01
+2020,03,Oud - Berchem,15,2020-03-01
+2020,03,Oud - Merksem,9,2020-03-01
+2020,03,Petroleum - Zuid,1,2020-03-01
+2020,03,Sint-Andries,42,2020-03-01
+2020,03,Stadspark,60,2020-03-01
+2020,03,Stuivenberg,30,2020-03-01
+2020,03,Theaterbuurt-Meir,135,2020-03-01
+2020,03,Universiteitsbuurt,74,2020-03-01
+2020,03,Valaar,7,2020-03-01
+2020,03,Wilrijk Centrum,5,2020-03-01
+2020,03,Zuid,36,2020-03-01
+2020,03,Zurenborg,6,2020-03-01
+2020,04,Amandus - Atheneum,6,2020-04-01
+2020,04,Borgerhout Intra Muros Zuid,2,2020-04-01
+2020,04,Brederode,1,2020-04-01
+2020,04,Centraal Station,4,2020-04-01
+2020,04,Dam,1,2020-04-01
+2020,04,Deurne Zuid West,2,2020-04-01
+2020,04,Eilandje,2,2020-04-01
+2020,04,Ekeren Centrum,2,2020-04-01
+2020,04,Haringrode,1,2020-04-01
+2020,04,Harmonie,1,2020-04-01
+2020,04,Historisch Centrum,11,2020-04-01
+2020,04,Kiel,1,2020-04-01
+2020,04,Nieuw - Kwartier Oost,1,2020-04-01
+2020,04,Nieuw - Zuid,1,2020-04-01
+2020,04,Oud - Berchem,2,2020-04-01
+2020,04,Stadspark,3,2020-04-01
+2020,04,Theaterbuurt-Meir,7,2020-04-01
+2020,04,Universiteitsbuurt,3,2020-04-01
+2020,05,Amandus - Atheneum,10,2020-05-01
+2020,05,Borgerhout Extra Muros,2,2020-05-01
+2020,05,Borgerhout Intra Muros Noord,3,2020-05-01
+2020,05,Borgerhout Intra Muros Zuid,1,2020-05-01
+2020,05,Brederode,2,2020-05-01
+2020,05,Centraal Station,2,2020-05-01
+2020,05,Dam,1,2020-05-01
+2020,05,Deurne Zuid West,4,2020-05-01
+2020,05,Eilandje,4,2020-05-01
+2020,05,Ekeren Centrum,3,2020-05-01
+2020,05,Haringrode,1,2020-05-01
+2020,05,Historisch Centrum,16,2020-05-01
+2020,05,Kiel,2,2020-05-01
+2020,05,Middelheim,1,2020-05-01
+2020,05,Nieuw - Kwartier Oost,2,2020-05-01
+2020,05,Nieuw - Kwartier West,2,2020-05-01
+2020,05,Oud - Merksem,1,2020-05-01
+2020,05,Sint-Andries,2,2020-05-01
+2020,05,Stadspark,7,2020-05-01
+2020,05,Theaterbuurt-Meir,13,2020-05-01
+2020,05,Universiteitsbuurt,7,2020-05-01
+2020,05,Valaar,1,2020-05-01
+2020,05,Zuid,2,2020-05-01
+2020,05,Zurenborg,1,2020-05-01
+2020,06,Amandus - Atheneum,47,2020-06-01
+2020,06,Borgerhout Extra Muros,6,2020-06-01
+2020,06,Borgerhout Intra Muros Noord,6,2020-06-01
+2020,06,Brederode,6,2020-06-01
+2020,06,Centraal Station,21,2020-06-01
+2020,06,Dam,5,2020-06-01
+2020,06,Deurne Dorp - Gallifort,3,2020-06-01
+2020,06,Deurne Noord,4,2020-06-01
+2020,06,Deurne Zuid Oost,3,2020-06-01
+2020,06,Deurne Zuid West,5,2020-06-01
+2020,06,Eilandje,11,2020-06-01
+2020,06,Ekeren Centrum,2,2020-06-01
+2020,06,Haringrode,4,2020-06-01
+2020,06,Harmonie,7,2020-06-01
+2020,06,Historisch Centrum,104,2020-06-01
+2020,06,Hoboken - Centrum,2,2020-06-01
+2020,06,Hoogte,1,2020-06-01
+2020,06,Kiel,3,2020-06-01
+2020,06,Linkeroever,2,2020-06-01
+2020,06,Markgrave,5,2020-06-01
+2020,06,Nieuw - Kwartier Oost,1,2020-06-01
+2020,06,Nieuw - Kwartier West,1,2020-06-01
+2020,06,Oud - Berchem,8,2020-06-01
+2020,06,Oud - Merksem,1,2020-06-01
+2020,06,Petroleum - Zuid,1,2020-06-01
+2020,06,Polder,2,2020-06-01
+2020,06,Sint-Andries,5,2020-06-01
+2020,06,Stadspark,20,2020-06-01
+2020,06,Stuivenberg,6,2020-06-01
+2020,06,Theaterbuurt-Meir,84,2020-06-01
+2020,06,Tuinwijk,2,2020-06-01
+2020,06,Universiteitsbuurt,48,2020-06-01
+2020,06,Valaar,2,2020-06-01
+2020,06,Zuid,8,2020-06-01
+2020,06,Zurenborg,3,2020-06-01
+2020,07,Amandus - Atheneum,130,2020-07-01
+2020,07,Borgerhout Extra Muros,16,2020-07-01
+2020,07,Borgerhout Intra Muros Noord,43,2020-07-01
+2020,07,Borgerhout Intra Muros Zuid,17,2020-07-01
+2020,07,Brederode,25,2020-07-01
+2020,07,Centraal Station,85,2020-07-01
+2020,07,Dam,1,2020-07-01
+2020,07,Deurne Dorp - Gallifort,6,2020-07-01
+2020,07,Deurne Noord,13,2020-07-01
+2020,07,Deurne Oost,2,2020-07-01
+2020,07,Deurne Zuid Oost,6,2020-07-01
+2020,07,Deurne Zuid West,16,2020-07-01
+2020,07,Eilandje,26,2020-07-01
+2020,07,Ekeren Centrum,5,2020-07-01
+2020,07,Groenenhoek,8,2020-07-01
+2020,07,Haringrode,22,2020-07-01
+2020,07,Harmonie,26,2020-07-01
+2020,07,Historisch Centrum,409,2020-07-01
+2020,07,Hoboken - Centrum,2,2020-07-01
+2020,07,Hoogte,2,2020-07-01
+2020,07,Kiel,7,2020-07-01
+2020,07,Linkeroever,17,2020-07-01
+2020,07,Markgrave,13,2020-07-01
+2020,07,Middelheim,5,2020-07-01
+2020,07,Nieuw - Kwartier Oost,14,2020-07-01
+2020,07,Nieuw - Zuid,4,2020-07-01
+2020,07,Nieuwdreef,3,2020-07-01
+2020,07,Oosterveld - Elsdonk,4,2020-07-01
+2020,07,Oud - Berchem,24,2020-07-01
+2020,07,Oud - Merksem,3,2020-07-01
+2020,07,Polder,1,2020-07-01
+2020,07,Sint-Andries,51,2020-07-01
+2020,07,Stadspark,66,2020-07-01
+2020,07,Stuivenberg,20,2020-07-01
+2020,07,Tentoonstellingswijk,1,2020-07-01
+2020,07,Theaterbuurt-Meir,281,2020-07-01
+2020,07,Tuinwijk,3,2020-07-01
+2020,07,Universiteitsbuurt,134,2020-07-01
+2020,07,Valaar,14,2020-07-01
+2020,07,Wilrijk Centrum,4,2020-07-01
+2020,07,Zuid,42,2020-07-01
+2020,07,Zurenborg,18,2020-07-01
+2020,08,Amandus - Atheneum,51,2020-08-01
+2020,08,Borgerhout Extra Muros,3,2020-08-01
+2020,08,Borgerhout Intra Muros Noord,13,2020-08-01
+2020,08,Brederode,8,2020-08-01
+2020,08,Centraal Station,34,2020-08-01
+2020,08,Deurne Dorp - Gallifort,7,2020-08-01
+2020,08,Deurne Noord,2,2020-08-01
+2020,08,Deurne Zuid Oost,2,2020-08-01
+2020,08,Deurne Zuid West,7,2020-08-01
+2020,08,Eilandje,7,2020-08-01
+2020,08,Ekeren Centrum,3,2020-08-01
+2020,08,Groenenhoek,4,2020-08-01
+2020,08,Haringrode,11,2020-08-01
+2020,08,Harmonie,12,2020-08-01
+2020,08,Historisch Centrum,134,2020-08-01
+2020,08,Hoogte,3,2020-08-01
+2020,08,Kiel,3,2020-08-01
+2020,08,Linkeroever,4,2020-08-01
+2020,08,Markgrave,5,2020-08-01
+2020,08,Middelheim,3,2020-08-01
+2020,08,Nieuw - Kwartier Oost,2,2020-08-01
+2020,08,Nieuw - Kwartier West,1,2020-08-01
+2020,08,Nieuw - Zuid,2,2020-08-01
+2020,08,Nieuwdreef,1,2020-08-01
+2020,08,Oud - Berchem,10,2020-08-01
+2020,08,Oud - Merksem,2,2020-08-01
+2020,08,Polder,1,2020-08-01
+2020,08,Sint-Andries,19,2020-08-01
+2020,08,Stadspark,27,2020-08-01
+2020,08,Stuivenberg,4,2020-08-01
+2020,08,Theaterbuurt-Meir,95,2020-08-01
+2020,08,Tuinwijk,2,2020-08-01
+2020,08,Universiteitsbuurt,60,2020-08-01
+2020,08,Valaar,4,2020-08-01
+2020,08,Zuid,16,2020-08-01
+2020,08,Zurenborg,5,2020-08-01
+2020,09,Amandus - Atheneum,46,2020-09-01
+2020,09,Borgerhout Extra Muros,1,2020-09-01
+2020,09,Borgerhout Intra Muros Noord,17,2020-09-01
+2020,09,Borgerhout Intra Muros Zuid,9,2020-09-01
+2020,09,Brederode,16,2020-09-01
+2020,09,Centraal Station,30,2020-09-01
+2020,09,Deurne Dorp - Gallifort,4,2020-09-01
+2020,09,Deurne Noord,1,2020-09-01
+2020,09,Deurne Zuid Oost,2,2020-09-01
+2020,09,Deurne Zuid West,12,2020-09-01
+2020,09,Eilandje,18,2020-09-01
+2020,09,Groenenhoek,5,2020-09-01
+2020,09,Haringrode,7,2020-09-01
+2020,09,Harmonie,4,2020-09-01
+2020,09,Historisch Centrum,153,2020-09-01
+2020,09,Hoboken - Centrum,1,2020-09-01
+2020,09,Hoogte,1,2020-09-01
+2020,09,Kiel,5,2020-09-01
+2020,09,Linkeroever,6,2020-09-01
+2020,09,Markgrave,10,2020-09-01
+2020,09,Middelheim,5,2020-09-01
+2020,09,Nieuw - Kwartier West,1,2020-09-01
+2020,09,Oud - Berchem,13,2020-09-01
+2020,09,Oud - Merksem,2,2020-09-01
+2020,09,Sint-Andries,20,2020-09-01
+2020,09,Stadspark,29,2020-09-01
+2020,09,Stuivenberg,9,2020-09-01
+2020,09,Theaterbuurt-Meir,108,2020-09-01
+2020,09,Tuinwijk,2,2020-09-01
+2020,09,Universiteitsbuurt,64,2020-09-01
+2020,09,Valaar,4,2020-09-01
+2020,09,Wilrijk Centrum,2,2020-09-01
+2020,09,Zuid,14,2020-09-01
+2020,09,Zurenborg,6,2020-09-01
+2020,10,Amandus - Atheneum,58,2020-10-01
+2020,10,Borgerhout Extra Muros,7,2020-10-01
+2020,10,Borgerhout Intra Muros Noord,22,2020-10-01
+2020,10,Borgerhout Intra Muros Zuid,5,2020-10-01
+2020,10,Brederode,12,2020-10-01
+2020,10,Centraal Station,30,2020-10-01
+2020,10,Dam,1,2020-10-01
+2020,10,Deurne Dorp - Gallifort,5,2020-10-01
+2020,10,Deurne Noord,6,2020-10-01
+2020,10,Deurne Oost,2,2020-10-01
+2020,10,Deurne Zuid Oost,3,2020-10-01
+2020,10,Deurne Zuid West,3,2020-10-01
+2020,10,Eilandje,12,2020-10-01
+2020,10,Ekeren Centrum,3,2020-10-01
+2020,10,Groenenhoek,7,2020-10-01
+2020,10,Haringrode,8,2020-10-01
+2020,10,Harmonie,6,2020-10-01
+2020,10,Historisch Centrum,127,2020-10-01
+2020,10,Hoboken - Centrum,1,2020-10-01
+2020,10,Hoogte,2,2020-10-01
+2020,10,Kiel,4,2020-10-01
+2020,10,Lillo,1,2020-10-01
+2020,10,Linkeroever,4,2020-10-01
+2020,10,Markgrave,10,2020-10-01
+2020,10,Middelheim,2,2020-10-01
+2020,10,Nieuw - Kwartier Oost,4,2020-10-01
+2020,10,Nieuw - Kwartier West,2,2020-10-01
+2020,10,Nieuw - Zuid,1,2020-10-01
+2020,10,Oud - Berchem,8,2020-10-01
+2020,10,Oud - Merksem,2,2020-10-01
+2020,10,Sint-Andries,15,2020-10-01
+2020,10,Stadspark,25,2020-10-01
+2020,10,Stuivenberg,3,2020-10-01
+2020,10,Theaterbuurt-Meir,105,2020-10-01
+2020,10,Universiteitsbuurt,31,2020-10-01
+2020,10,Valaar,2,2020-10-01
+2020,10,Wilrijk Centrum,8,2020-10-01
+2020,10,Zuid,12,2020-10-01
+2020,10,Zurenborg,6,2020-10-01
+2020,11,Amandus - Atheneum,42,2020-11-01
+2020,11,Borgerhout Extra Muros,1,2020-11-01
+2020,11,Borgerhout Intra Muros Noord,9,2020-11-01
+2020,11,Borgerhout Intra Muros Zuid,3,2020-11-01
+2020,11,Brederode,6,2020-11-01
+2020,11,Centraal Station,28,2020-11-01
+2020,11,Deurne Dorp - Gallifort,1,2020-11-01
+2020,11,Deurne Noord,6,2020-11-01
+2020,11,Deurne Zuid Oost,2,2020-11-01
+2020,11,Deurne Zuid West,3,2020-11-01
+2020,11,Donk,2,2020-11-01
+2020,11,Eilandje,14,2020-11-01
+2020,11,Ekeren Centrum,1,2020-11-01
+2020,11,Groenenhoek,4,2020-11-01
+2020,11,Haringrode,4,2020-11-01
+2020,11,Harmonie,5,2020-11-01
+2020,11,Historisch Centrum,86,2020-11-01
+2020,11,Hoogte,2,2020-11-01
+2020,11,Kiel,2,2020-11-01
+2020,11,Lillo,1,2020-11-01
+2020,11,Linkeroever,1,2020-11-01
+2020,11,Markgrave,3,2020-11-01
+2020,11,Middelheim,1,2020-11-01
+2020,11,Nieuw - Kwartier Oost,3,2020-11-01
+2020,11,Nieuw - Kwartier West,1,2020-11-01
+2020,11,Oud - Berchem,7,2020-11-01
+2020,11,Oud - Merksem,2,2020-11-01
+2020,11,Sint-Andries,10,2020-11-01
+2020,11,Stadspark,19,2020-11-01
+2020,11,Stuivenberg,2,2020-11-01
+2020,11,Theaterbuurt-Meir,57,2020-11-01
+2020,11,Universiteitsbuurt,34,2020-11-01
+2020,11,Valaar,7,2020-11-01
+2020,11,Wilrijk Centrum,4,2020-11-01
+2020,11,Zuid,11,2020-11-01
+2020,11,Zurenborg,2,2020-11-01
+2020,12,Amandus - Atheneum,32,2020-12-01
+2020,12,Borgerhout Extra Muros,5,2020-12-01
+2020,12,Borgerhout Intra Muros Noord,9,2020-12-01
+2020,12,Borgerhout Intra Muros Zuid,12,2020-12-01
+2020,12,Brederode,10,2020-12-01
+2020,12,Centraal Station,36,2020-12-01
+2020,12,Dam,1,2020-12-01
+2020,12,Deurne Dorp - Gallifort,4,2020-12-01
+2020,12,Deurne Noord,3,2020-12-01
+2020,12,Deurne Zuid Oost,1,2020-12-01
+2020,12,Deurne Zuid West,7,2020-12-01
+2020,12,Donk,1,2020-12-01
+2020,12,Eilandje,10,2020-12-01
+2020,12,Ekeren Centrum,1,2020-12-01
+2020,12,Groenenhoek,5,2020-12-01
+2020,12,Haringrode,3,2020-12-01
+2020,12,Harmonie,11,2020-12-01
+2020,12,Historisch Centrum,151,2020-12-01
+2020,12,Hoogte,1,2020-12-01
+2020,12,Kiel,1,2020-12-01
+2020,12,Lillo,1,2020-12-01
+2020,12,Markgrave,7,2020-12-01
+2020,12,Middelheim,2,2020-12-01
+2020,12,Nieuw - Kwartier West,1,2020-12-01
+2020,12,Nieuwdreef,1,2020-12-01
+2020,12,Oud - Berchem,12,2020-12-01
+2020,12,Oud - Merksem,2,2020-12-01
+2020,12,Sint-Andries,26,2020-12-01
+2020,12,Stadspark,24,2020-12-01
+2020,12,Stuivenberg,1,2020-12-01
+2020,12,Theaterbuurt-Meir,68,2020-12-01
+2020,12,Universiteitsbuurt,43,2020-12-01
+2020,12,Valaar,8,2020-12-01
+2020,12,Wilrijk Centrum,1,2020-12-01
+2020,12,Zuid,11,2020-12-01
+2020,12,Zurenborg,4,2020-12-01
+2021,01,Amandus - Atheneum,59,2021-01-01
+2021,01,Borgerhout Extra Muros,9,2021-01-01
+2021,01,Borgerhout Intra Muros Noord,11,2021-01-01
+2021,01,Borgerhout Intra Muros Zuid,13,2021-01-01
+2021,01,Brederode,14,2021-01-01
+2021,01,Centraal Station,49,2021-01-01
+2021,01,Dam,1,2021-01-01
+2021,01,Deurne Dorp - Gallifort,5,2021-01-01
+2021,01,Deurne Noord,3,2021-01-01
+2021,01,Deurne Oost,1,2021-01-01
+2021,01,Deurne Zuid Oost,1,2021-01-01
+2021,01,Deurne Zuid West,4,2021-01-01
+2021,01,Eilandje,16,2021-01-01
+2021,01,Ekeren Centrum,1,2021-01-01
+2021,01,Groenenhoek,3,2021-01-01
+2021,01,Haringrode,2,2021-01-01
+2021,01,Harmonie,14,2021-01-01
+2021,01,Historisch Centrum,186,2021-01-01
+2021,01,Hoogte,1,2021-01-01
+2021,01,Kiel,2,2021-01-01
+2021,01,Leugenberg,1,2021-01-01
+2021,01,Lillo,1,2021-01-01
+2021,01,Linkeroever,1,2021-01-01
+2021,01,Markgrave,6,2021-01-01
+2021,01,Middelheim,2,2021-01-01
+2021,01,Nieuw - Kwartier Oost,2,2021-01-01
+2021,01,Oud - Berchem,18,2021-01-01
+2021,01,Oud - Merksem,1,2021-01-01
+2021,01,Sint-Andries,34,2021-01-01
+2021,01,Stadspark,35,2021-01-01
+2021,01,Stuivenberg,5,2021-01-01
+2021,01,Theaterbuurt-Meir,95,2021-01-01
+2021,01,Universiteitsbuurt,57,2021-01-01
+2021,01,Valaar,8,2021-01-01
+2021,01,Wilrijk Centrum,4,2021-01-01
+2021,01,Zuid,15,2021-01-01
+2021,01,Zurenborg,6,2021-01-01
+2021,02,Amandus - Atheneum,36,2021-02-01
+2021,02,Borgerhout Extra Muros,6,2021-02-01
+2021,02,Borgerhout Intra Muros Noord,11,2021-02-01
+2021,02,Borgerhout Intra Muros Zuid,12,2021-02-01
+2021,02,Brederode,14,2021-02-01
+2021,02,Centraal Station,42,2021-02-01
+2021,02,Deurne Dorp - Gallifort,3,2021-02-01
+2021,02,Deurne Noord,3,2021-02-01
+2021,02,Deurne Zuid Oost,1,2021-02-01
+2021,02,Deurne Zuid West,5,2021-02-01
+2021,02,Eilandje,20,2021-02-01
+2021,02,Groenenhoek,3,2021-02-01
+2021,02,Haringrode,8,2021-02-01
+2021,02,Harmonie,12,2021-02-01
+2021,02,Historisch Centrum,136,2021-02-01
+2021,02,Kiel,7,2021-02-01
+2021,02,Lillo,1,2021-02-01
+2021,02,Linkeroever,2,2021-02-01
+2021,02,Markgrave,7,2021-02-01
+2021,02,Middelheim,6,2021-02-01
+2021,02,Nieuw - Kwartier Oost,2,2021-02-01
+2021,02,Nieuw - Kwartier West,1,2021-02-01
+2021,02,Oud - Berchem,10,2021-02-01
+2021,02,Oud - Merksem,2,2021-02-01
+2021,02,Polder,1,2021-02-01
+2021,02,Sint-Andries,30,2021-02-01
+2021,02,Stadspark,28,2021-02-01
+2021,02,Stuivenberg,5,2021-02-01
+2021,02,Theaterbuurt-Meir,81,2021-02-01
+2021,02,Tuinwijk,2,2021-02-01
+2021,02,Universiteitsbuurt,37,2021-02-01
+2021,02,Valaar,6,2021-02-01
+2021,02,Wilrijk Centrum,5,2021-02-01
+2021,02,Zuid,17,2021-02-01
+2021,02,Zurenborg,7,2021-02-01
