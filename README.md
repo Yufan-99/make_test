@@ -14,9 +14,9 @@ This project is aim to split one large Rscript into several small pieces. Each s
 ├── README.md
 ├── data
 ├── gen
-│   ├── analysis
-│   ├── data-preparation
-│   └── paper
+│   ├── input
+│   ├── output
+│   └── temp
 └── src
 |  ├── analysis
 |  ├── data-preparation
