@@ -33,5 +33,5 @@ In order to run the codes smoothly in one time, the following software is requir
 Tip: If you have not install the required software, please access https://tilburgsciencehub.com/ and follow the installation instruction.
 
 ### Running the code by using makefile in root directory
-- You can easily type "make" in the root directory of this project in terminal and run the makefile. All the source codes will be executed in one go.
+- You can easily type "make"  in terminal in the root directory of this project and run the makefile. All the source codes will be executed in one go.
 - Alternatively, you also can run each Rscript manually. If you want to run it manually, please go to the subdirectory where the source code is located and click "Source" on Rstudio interface.
