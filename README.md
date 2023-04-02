@@ -33,7 +33,8 @@ This project is aim to split one large Rscript into several small pieces. Each s
 In order to run the codes smoothly in one time, the following software is required:
 - Make
 - R and Rstudio
-Tip: If you have not install the required software, please access https://tilburgsciencehub.com/ and follow the installation instruction.
+
+Tip: If you have not installed the required softwares, please access https://tilburgsciencehub.com/ and follow the installation instruction.
 
 ### Running the code by using makefile in root directory
 - You can easily type "make"  in terminal in the root directory of this project and run the makefile. All the source codes will be executed in one go.
