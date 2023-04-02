@@ -24,7 +24,7 @@ This project is aim to split one large Rscript into several small pieces. Each s
 |   ├── analysis
 |   ├── data-preparation
 |   └── paper
-└── make file
+└── Makefile
 ```
 
 ## Running instructions
