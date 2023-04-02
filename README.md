@@ -14,13 +14,16 @@ This project is aim to split one large Rscript into several small pieces. Each s
 ├── README.md
 ├── data
 ├── gen
-│   ├── input
-│   ├── output
-│   └── temp
+│   ├── data-preparation
+│   │       ├──temp
+│   │       └──output
+│   └── analysis 
+│            ├──temp
+│            └──output
 └── src
-|  ├── analysis
-|  ├── data-preparation
-|  └── paper
+|   ├── analysis
+|   ├── data-preparation
+|   └── paper
 └── make file
 ```
 
