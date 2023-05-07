@@ -1,6 +1,6 @@
 ## Introduction
 
-This project is aim to split one large Rscript into several small pieces. Each small source code is stored in different subdirectories and the generated output will be stored in the directory of gen/analysis/output/. Moreover, the makefile is added into the root directory and sub directories to automate the workflow.
+This project is aim to split one large Rscript into several small pieces. Each small source code is stored in different sub-directories and the generated output will be stored in the directory of gen/analysis/output/. Moreover, the makefile is added into the root directory and sub directories to automate the workflow.
 
 ## Motivation
 - By dividing a large Rscript into smaller ones, it can foster collabration. Group members can easily work on each single part (e.g. clean.R) at the same time.
